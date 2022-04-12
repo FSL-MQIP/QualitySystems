@@ -1,2 +1,2 @@
 # QualitySystems
-Data and code accompanying the manuscript: "Machine learning and advanced statistical modeling approaches identify cleaning and sanitation, employee training, and quality testing programs as key quality management practices that affect post-pasteurization contamination"
+Data and code accompanying the manuscript: "Machine learning and advanced statistical modeling can identify key quality management practices that affect post-pasteurization contamination of fluid milk" published in the Journal of Food Protection, doi: 10.4315/JFP-20-431.
