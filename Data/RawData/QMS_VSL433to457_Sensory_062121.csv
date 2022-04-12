@@ -1,0 +1,1561 @@
+ID,day,panelistCount,flavorScore,attribute
+3828,D10,5,9.2,No Criticism
+3828,D14,6,9.3,No Criticism
+3828,D17,6,9.2,No Criticism
+3828,D21,6,4.2,Coagulated
+3828,DI,6,8.8,Light Oxidized
+3829,D10,5,9.2,No Criticism
+3829,D14,6,9.3,No Criticism
+3829,D17,6,9.2,No Criticism
+3829,D21,6,8.2,Not clearly defined
+3829,DI,6,8.3,Light Oxidized
+3830,D10,5,9.2,No Criticism
+3830,D14,6,9,No Criticism
+3830,D17,6,9.2,No Criticism
+3830,D21,6,8.4,Not clearly defined
+3830,DI,6,9.2,No Criticism
+3832,D10,5,9.4,No Criticism
+3832,D14,6,9.3,No Criticism
+3832,D17,6,9.2,No Criticism
+3832,D21,5,4,High Acid
+3832,DI,6,9.4,Cooked
+3833,D10,5,9.3,No Criticism
+3833,D14,6,9.2,No Criticism
+3833,D17,6,9,No Criticism
+3833,D21,5,4.4,Malty
+3833,DI,6,9.4,No Criticism
+3834,D10,5,9.2,No Criticism
+3834,D14,6,9.2,No Criticism
+3834,D17,6,9.1,No Criticism
+3834,D21,5,8.6,Lacks Freshness
+3834,DI,6,9.3,No Criticism
+3835,D10,5,9.3,No Criticism
+3835,D14,6,9.2,No Criticism
+3835,D17,6,9.1,No Criticism
+3835,D21,5,9,No Criticism
+3835,DI,6,9.4,No Criticism
+3837,D10,5,9.3,No Criticism
+3837,D14,6,8.4,"Bitter, Lacks Freshness"
+3837,D17,6,9,No Criticism
+3837,D21,5,0,"Bitter, Coagulated"
+3837,DI,6,9.4,No Criticism
+3838,D10,5,9.4,No Criticism
+3838,D14,6,1.7,"Coagulated, Fruity Fermented, Rancid"
+3838,DI,6,9.2,No Criticism
+3839,D10,5,9.3,No Criticism
+3839,D14,6,9,No Criticism
+3839,D17,6,9.2,No Criticism
+3839,D21,5,8.6,Lacks Freshness
+3839,DI,6,9.1,No Criticism
+3840,D10,5,9.3,No Criticism
+3840,D14,6,8.3,"Bitter, Lacks Freshness"
+3840,D17,6,0.3,"Bitter, Coagulated"
+3840,DI,6,9.3,No Criticism
+3841,D10,5,9.3,No Criticism
+3841,D14,6,9.2,No Criticism
+3841,D17,6,9.2,No Criticism
+3841,D21,6,4.1,Coagulated
+3841,DI,6,9.3,No Criticism
+3842,D10,5,9.3,No Criticism
+3842,D14,6,9.3,No Criticism
+3842,D17,6,9.2,No Criticism
+3842,D21,6,9.2,No Criticism
+3842,DI,6,9.1,No Criticism
+3843,D10,5,8.6,Not clearly defined
+3843,D14,6,8.7,Lacks Freshness
+3843,D17,6,8.9,Not clearly defined
+3843,D21,6,8.9,Not clearly defined
+3843,DI,6,8.6,Not clearly defined
+3844,D10,5,9.3,No Criticism
+3844,D14,6,9.1,No Criticism
+3844,D17,6,9,No Criticism
+3844,D21,6,9.2,No Criticism
+3844,DI,6,9.3,No Criticism
+3846,D10,6,9.2,Cooked
+3846,DI,6,7.9,Cooked
+3847,D10,6,7.1,Cooked
+3847,D14,6,7.5,"Fruity Fermented, Cooked"
+3847,DI,6,8.9,Cooked
+3848,D10,6,7.8,"Flat, Lacks Freshness"
+3848,D14,6,5.3,"Bitter, Fruity Fermented"
+3848,DI,6,7.4,Light Oxidized
+3851,D10,6,8.9,Not clearly defined
+3851,D14,5,7.8,"Cooked, Lacks Freshness"
+3851,D17,6,8.8,Cooked
+3851,D21,6,6.5,"Lacks Freshness, Light Oxidized"
+3851,DI,6,9.2,No Criticism
+3852,D10,6,7.7,Cooked
+3852,D14,5,0,Coagulated
+3852,DI,6,9.2,No Criticism
+3853,D10,6,9,No Criticism
+3853,D14,5,7.6,Lacks Freshness
+3853,D17,6,6.9,Cooked
+3853,D21,6,4.7,Lacks Freshness
+3853,DI,6,9,No Criticism
+3854,D10,6,9.2,Cooked
+3854,D14,5,0,Coagulated
+3854,DI,6,9.2,Cooked
+3857,D10,6,9.1,No Criticism
+3857,D17,6,0.2,"Coagulated, Rancid"
+3857,DI,6,9.3,No Criticism
+3858,D10,6,9,No Criticism
+3858,D14,5,3.8,"Bitter, Coagulated"
+3858,DI,6,9.4,No Criticism
+3859,D10,6,9,No Criticism
+3859,D14,5,8.9,Not clearly defined
+3859,D17,6,8,Lacks Freshness
+3859,D21,6,0,Coagulated
+3859,DI,6,9,No Criticism
+3860,D10,6,6.1,Fruity Fermented
+3860,D14,5,0.4,"Fruity Fermented, Bitter, Coagulated"
+3860,DI,6,9.1,No Criticism
+3862,D10,6,8.8,Lacks Freshness
+3862,D14,6,0,Coagulated
+3862,DI,6,9,Cooked
+3863,D10,6,9.2,No Criticism
+3863,D14,6,0.1,Coagulated
+3863,DI,6,9,Cooked
+3864,D10,6,8.6,Lacks Freshness
+3864,D14,6,0,Coagulated
+3864,DI,6,8.9,Not clearly defined
+3866,D10,4,9.4,No Criticism
+3866,D14,6,8.8,Not clearly defined
+3866,D17,6,9.1,No Criticism
+3866,D21,6,7.3,Lacks Freshness
+3866,DI,6,9.4,No Criticism
+3867,D10,4,9.4,No Criticism
+3867,D14,6,9,No Criticism
+3867,D17,6,9,No Criticism
+3867,D21,6,6.8,Rancid
+3867,DI,6,9.4,No Criticism
+3868,D10,4,9.2,No Criticism
+3868,D14,6,8.7,Not clearly defined
+3868,D17,6,8.4,Lacks Freshness
+3868,D21,6,8.8,Lacks Freshness
+3868,DI,6,9.3,No Criticism
+3869,D10,4,9.2,No Criticism
+3869,D14,6,9,No Criticism
+3869,D17,6,6.3,Rancid
+3869,D21,6,4.8,High Acid
+3869,DI,6,9.4,No Criticism
+3871,D10,5,8.4,Not clearly defined
+3871,D14,6,8.8,Lacks Freshness
+3871,D17,5,9.1,No Criticism
+3871,D21,5,8.6,Lacks Freshness
+3871,DI,6,9.5,No Criticism
+3872,D10,5,9.4,No Criticism
+3872,D14,6,9,No Criticism
+3872,D17,5,8.8,Lacks Freshness
+3872,D21,5,8.7,Not clearly defined
+3872,DI,6,9.4,No Criticism
+3873,D10,5,8.6,Not clearly defined
+3873,D14,6,8.7,Lacks Freshness
+3873,D17,5,8.8,Not clearly defined
+3873,D21,5,8.6,Lacks Freshness
+3873,DI,6,8.7,Not clearly defined
+3876,D10,5,9.5,No Criticism
+3876,D14,6,9.1,No Criticism
+3876,D17,5,8,Lacks Freshness
+3876,D21,5,4.2,High Acid
+3876,DI,6,8.8,Cooked
+3877,D10,5,9.3,No Criticism
+3877,D14,6,8.9,Not clearly defined
+3877,D17,5,8.8,Not clearly defined
+3877,D21,5,6.3,Lacks Freshness
+3877,DI,6,9.5,No Criticism
+3878,D10,5,8.8,Not clearly defined
+3878,D14,6,7.9,Not clearly defined
+3878,D17,5,8.6,Not clearly defined
+3878,D21,5,6.2,Lacks Freshness
+3878,DI,6,9.2,No Criticism
+3879,D10,5,8.9,Not clearly defined
+3879,D14,6,8.1,Not clearly defined
+3879,D17,5,8.9,Not clearly defined
+3879,D21,5,7.2,"High Acid, Lacks Freshness"
+3879,DI,6,9.4,No Criticism
+3883,D10,4,9.4,No Criticism
+3883,D14,6,8.8,Not clearly defined
+3883,D17,6,8.2,Not clearly defined
+3883,D21,6,7.8,Lacks Freshness
+3883,DI,6,9.3,No Criticism
+3884,D10,4,9.3,No Criticism
+3884,D14,6,8.8,Not clearly defined
+3884,D17,6,8.9,Not clearly defined
+3884,D21,6,8,Lacks Freshness
+3884,DI,6,9.5,No Criticism
+3885,D10,4,9.2,No Criticism
+3885,D14,6,9,No Criticism
+3885,D17,6,8.6,"Cooked, Lacks Freshness"
+3885,D21,6,6.8,Lacks Freshness
+3885,DI,6,9.3,No Criticism
+3886,D10,4,9.2,No Criticism
+3886,D14,6,9,No Criticism
+3886,D17,6,9,No Criticism
+3886,D21,6,7.7,Not clearly defined
+3886,DI,6,9.4,No Criticism
+3888,D10,4,5.8,"Light Oxidized, Lipid Oxidized"
+3888,D14,6,6.5,"Light Oxidized, Milk Carton"
+3888,D17,6,5.8,"Light Oxidized, Milk Carton"
+3888,DI,6,8,Milk Carton
+3890,D10,5,6.8,Lipid Oxidized
+3890,D14,6,5.8,"Lipid Oxidized, Milk Carton"
+3890,DI,6,8.2,Cooked
+3892,D10,6,8.8,Lacks Freshness
+3892,D14,6,8,Lacks Freshness
+3892,DI,6,8.3,Not clearly defined
+3893,D10,6,9.1,No Criticism
+3893,D14,6,8.9,Not clearly defined
+3893,DI,6,8.5,Not clearly defined
+3894,D10,6,4.3,Malty
+3894,DI,6,8.5,Cooked
+3899,D10,6,4.7,Fruity Fermented
+3899,DI,6,8.4,Cooked
+3900,D10,6,8.8,Cooked
+3900,D14,6,2.4,"Bitter, Coagulated, Rancid"
+3900,DI,6,8.2,Cooked
+3901,D10,6,9.4,No Criticism
+3901,D14,6,8.8,Not clearly defined
+3901,DI,6,8.2,Cooked
+3902,D10,6,9.1,No Criticism
+3902,D14,6,2.2,"Bitter, Coagulated"
+3902,DI,6,8.1,Light Oxidized
+3903,D14,6,6.4,"Lacks Freshness, Other: Band-aid"
+3903,DI,5,8.8,Not clearly defined
+3904,D14,6,3.2,"Coagulated, Fruity Fermented"
+3904,DI,5,9.1,Cooked
+3906,D10,6,8.8,Not clearly defined
+3906,D14,6,0,"Coagulated, Cooked"
+3906,DI,6,7.5,Light Oxidized
+3907,D10,6,9.2,No Criticism
+3907,D14,6,6.5,"Lacks Freshness, Unclean"
+3907,D17,6,1,"Coagulated, Rancid"
+3907,DI,6,8.1,Light Oxidized
+3908,D10,6,7.5,Light Oxidized
+3908,D14,6,8.8,"Cooked, Lacks Freshness"
+3908,D17,6,8,Lacks Freshness
+3908,D21,6,5.4,"Lacks Freshness, Rancid"
+3908,DI,6,7.6,Light Oxidized
+3909,D10,6,7.8,Not clearly defined
+3909,D14,6,8.4,Lacks Freshness
+3909,D17,6,7.9,Lacks Freshness
+3909,D21,6,5.5,"Feed, High Acid, Rancid"
+3909,DI,6,7.2,Light Oxidized
+3910,D14,6,0,"Coagulated, High Acid"
+3910,DI,5,9.5,No Criticism
+3920,D10,6,7.5,Light Oxidized
+3920,D14,6,7.5,Light Oxidized
+3920,D17,6,7.8,Light Oxidized
+3920,D21,6,6.7,Light Oxidized
+3920,DI,6,6.7,"Light Oxidized, Lipid Oxidized"
+3922,D10,6,4.2,"Fruity Fermented, Rancid"
+3922,DI,6,6.8,"Cooked, Light Oxidized, Lipid Oxidized"
+3923,D10,6,8.3,Not clearly defined
+3923,D14,6,8.2,"Cooked, Lacks Freshness"
+3923,D17,6,5.6,"Coagulated, Cooked"
+3923,DI,6,6.7,"Light Oxidized, Malty"
+3937,D10,6,9.4,No Criticism
+3937,D14,6,9.3,No Criticism
+3937,D21,6,7.9,Lacks Freshness
+3937,DI,6,9.6,No Criticism
+3938,D10,6,9.4,No Criticism
+3938,D14,6,9.4,No Criticism
+3938,D17,6,9.4,No Criticism
+3938,D21,6,0,"Coagulated, Rancid"
+3938,DI,6,9.7,No Criticism
+3939,D10,6,8.4,Light Oxidized
+3939,D14,6,8.8,Not clearly defined
+3939,D17,6,9.2,No Criticism
+3939,D21,6,8.1,Lacks Freshness
+3939,DI,6,9.5,No Criticism
+3940,D10,6,9.2,No Criticism
+3940,D14,6,4.9,"Fruity Fermented, Rancid"
+3940,DI,6,9.3,No Criticism
+3946,D10,6,9.4,No Criticism
+3946,D14,6,9.2,No Criticism
+3946,D17,6,7.5,Lacks Freshness
+3946,D21,6,7.2,Lipid Oxidized
+3946,DI,6,8.5,Not clearly defined
+3948,D10,6,9.5,No Criticism
+3948,D14,6,2.3,"Bitter, Coagulated, Lacks Freshness"
+3948,DI,6,9.5,No Criticism
+3949,D10,6,9.5,No Criticism
+3949,D14,6,2.5,"Bitter, Rancid"
+3949,DI,6,9.3,Cooked
+3950,D10,6,9.2,No Criticism
+3950,D14,6,1.5,"Coagulated, Lacks Freshness"
+3950,DI,6,9.4,Cooked
+3955,D10,6,9.2,No Criticism
+3955,D14,6,9.3,No Criticism
+3955,D17,6,9.3,No Criticism
+3955,D21,6,9,No Criticism
+3955,DI,6,9.8,No Criticism
+3956,D10,6,9.2,No Criticism
+3956,D14,6,9.3,No Criticism
+3956,D17,6,9.4,No Criticism
+3956,D21,6,7.8,Not clearly defined
+3956,DI,6,9.4,No Criticism
+3957,D10,6,9.2,Milk Carton
+3957,D14,6,8.6,"Lacks Freshness, Milk Carton"
+3957,D17,6,8.9,Lacks Freshness
+3957,D21,6,8.8,Lacks Freshness
+3957,DI,6,9.3,No Criticism
+3958,D10,6,9.4,No Criticism
+3958,D14,6,9.3,No Criticism
+3958,D17,6,9.2,No Criticism
+3958,D21,6,7.6,Lacks Freshness
+3958,DI,6,9.4,Flat
+3960,D10,6,9.4,No Criticism
+3960,D14,6,9,Flat
+3960,D17,6,9.1,No Criticism
+3960,D21,6,7.6,Not clearly defined
+3960,DI,6,9.5,No Criticism
+3961,D10,6,9.5,No Criticism
+3961,D14,6,4.2,"Fruity Fermented, Rancid"
+3961,D17,6,3.7,"Bitter, Fruity Fermented, Rancid"
+3961,DI,6,9,No Criticism
+3962,D10,6,9.1,Lacks Freshness
+3962,D14,6,8.8,Not clearly defined
+3962,D17,6,9.2,No Criticism
+3962,D21,6,5.7,Not clearly defined
+3962,DI,6,9.2,No Criticism
+3964,D10,6,9.5,No Criticism
+3964,D14,6,9.4,No Criticism
+3964,D17,6,9.1,No Criticism
+3964,D21,6,9.2,No Criticism
+3964,DI,6,9.5,No Criticism
+3965,D10,6,9.4,No Criticism
+3965,D14,6,9.2,No Criticism
+3965,D17,6,8.6,Not clearly defined
+3965,D21,6,8.3,Lacks Freshness
+3965,DI,6,9.2,Flat
+3966,D10,6,8.4,Cooked
+3966,D14,6,8.6,Not clearly defined
+3966,D17,6,8.7,Lacks Freshness
+3966,D21,6,8.4,Lacks Freshness
+3966,DI,6,9.4,No Criticism
+3967,D10,6,9.5,No Criticism
+3967,D14,6,9.4,No Criticism
+3967,D17,6,9.3,No Criticism
+3967,D21,6,0,Coagulated
+3967,DI,6,9.2,No Criticism
+3969,D10,6,8.4,Not clearly defined
+3969,D14,6,8.3,Rancid
+3969,D17,6,9.2,No Criticism
+3969,D21,6,8.5,Not clearly defined
+3969,DI,6,9.3,No Criticism
+3970,D10,6,9,No Criticism
+3970,D14,6,9,No Criticism
+3970,D17,6,8.8,Lacks Freshness
+3970,D21,6,7.2,Lacks Freshness
+3970,DI,6,7.4,Light Oxidized
+3971,D10,6,8.4,Light Oxidized
+3971,D14,6,8.8,Not clearly defined
+3971,D17,6,7.6,Lacks Freshness
+3971,D21,6,9.1,No Criticism
+3971,DI,6,8.8,Light Oxidized
+3972,D10,6,8.9,Lacks Freshness
+3972,D14,6,9,Lacks Freshness
+3972,D17,6,9.2,No Criticism
+3972,D21,6,8.8,Lacks Freshness
+3972,DI,6,9.2,No Criticism
+3974,D10,6,9.3,No Criticism
+3974,D14,6,5.5,Coagulated
+3974,DI,6,9,No Criticism
+3975,D10,6,8.8,Cooked
+3975,D14,6,6.3,"Bitter, Cooked"
+3975,DI,6,9.1,No Criticism
+3976,D10,6,6.9,Light Oxidized
+3976,D14,6,6.1,"Bitter, Lacks Freshness"
+3976,DI,6,6.6,Light Oxidized
+3978,D10,6,9.2,Cooked
+3978,D14,6,8.9,Cooked
+3978,D17,6,8.8,Cooked
+3978,D21,6,7.8,Cooked
+3978,DI,6,9.1,Cooked
+3979,D10,6,9.2,No Criticism
+3979,D14,6,9,No Criticism
+3979,D17,6,9.1,No Criticism
+3979,D21,6,9.2,Cooked
+3979,DI,6,9.1,Cooked
+3980,D10,6,8.2,Light Oxidized
+3980,D14,6,8,Light Oxidized
+3980,D17,6,7.5,Lacks Freshness
+3980,D21,6,8.4,Lacks Freshness
+3980,DI,6,9.4,No Criticism
+3981,D10,6,9.2,No Criticism
+3981,D14,6,9.1,Flat
+3981,D17,6,9,Lacks Freshness
+3981,D21,6,9.2,No Criticism
+3981,DI,6,8.8,Cooked
+3983,D10,6,9.3,No Criticism
+3983,D14,6,9.2,No Criticism
+3983,D17,6,8.6,Lacks Freshness
+3983,D21,6,8.8,Lacks Freshness
+3983,DI,6,9.3,No Criticism
+3984,D10,6,9.3,No Criticism
+3984,D14,6,9.2,No Criticism
+3984,D17,6,0.5,"High Acid, Unclean"
+3984,D21,6,7.9,Lacks Freshness
+3984,DI,6,9.3,No Criticism
+3985,D10,6,9,No Criticism
+3985,D14,6,8.7,Not clearly defined
+3985,D17,6,0,"Bitter, Coagulated"
+3985,D21,6,8.8,Lacks Freshness
+3985,DI,6,9.2,No Criticism
+3986,D10,6,9.3,No Criticism
+3986,D14,6,9.1,No Criticism
+3986,D17,6,9.2,No Criticism
+3986,D21,6,8.6,Lacks Freshness
+3986,DI,6,9.4,No Criticism
+3988,D10,6,4.7,Coagulated
+3988,DI,6,9.3,Cooked
+3989,D10,6,7.6,Not clearly defined
+3989,D14,6,0,Coagulated
+3989,DI,6,8.9,Cooked
+3990,D10,6,7.7,Not clearly defined
+3990,D14,6,0,Coagulated
+3990,DI,6,9.2,No Criticism
+3993,D10,4,9.4,No Criticism
+3993,D14,5,9.2,No Criticism
+3993,D17,5,8.3,Not clearly defined
+3993,D21,5,8.7,Flat
+3993,DI,5,9.5,No Criticism
+3994,D10,4,9.2,No Criticism
+3994,D14,5,9.3,No Criticism
+3994,D17,5,9.3,No Criticism
+3994,D21,5,8.3,Not clearly defined
+3994,DI,5,9.2,No Criticism
+3995,D10,4,9.2,No Criticism
+3995,D14,5,9,Lacks Freshness
+3995,D17,5,8.9,"Flat, Lacks Freshness"
+3995,D21,5,8.7,Lacks Freshness
+3995,DI,5,9.1,No Criticism
+3996,D10,4,9.2,No Criticism
+3996,D14,5,9.1,Lacks Freshness
+3996,D17,5,9,No Criticism
+3996,D21,5,8.2,Not clearly defined
+3996,DI,5,9.4,No Criticism
+3998,D10,5,9.1,No Criticism
+3998,D14,5,9.4,No Criticism
+3998,D17,5,7.5,Not clearly defined
+3998,D21,5,9.2,No Criticism
+3998,DI,5,9.4,No Criticism
+3999,D10,5,9.3,No Criticism
+3999,D14,5,9,No Criticism
+3999,D17,5,8.8,Not clearly defined
+3999,D21,5,7.3,Rancid
+3999,DI,5,9.5,No Criticism
+4000,D10,5,9.1,Lacks Freshness
+4000,D14,5,8.8,Lacks Freshness
+4000,D17,5,9.2,No Criticism
+4000,D21,5,7.3,Not clearly defined
+4000,DI,5,9.4,Flat
+4003,D10,5,8.9,Not clearly defined
+4003,D14,5,9.2,No Criticism
+4003,D17,5,8.8,Not clearly defined
+4003,D21,5,0,"Coagulated, Lacks Freshness, Rancid"
+4003,DI,5,9.5,No Criticism
+4004,D10,5,9.3,No Criticism
+4004,D14,5,9,No Criticism
+4004,D17,5,0,"Coagulated, Rancid"
+4004,DI,5,9.6,No Criticism
+4005,D10,5,9.3,No Criticism
+4005,D14,5,8.6,Lacks Freshness
+4005,D17,5,8.5,Lacks Freshness
+4005,D21,5,4.5,"High Acid, Rancid"
+4005,DI,5,9.3,No Criticism
+4006,D10,5,8.8,Not clearly defined
+4006,D14,5,0.9,"Coagulated, Rancid"
+4006,D17,5,0,Coagulated
+4006,DI,5,9.1,No Criticism
+4011,D10,5,8.8,Not clearly defined
+4011,D14,5,9.4,No Criticism
+4011,D17,5,8.7,Not clearly defined
+4011,D21,5,8.5,Not clearly defined
+4011,DI,5,9.6,No Criticism
+4012,D10,5,9.4,No Criticism
+4012,D14,5,8.9,Not clearly defined
+4012,D17,5,8.7,Not clearly defined
+4012,D21,5,9.1,No Criticism
+4012,DI,5,8.9,Not clearly defined
+4013,D10,5,9.1,No Criticism
+4013,D14,5,9,Lacks Freshness
+4013,D17,5,8.5,Lacks Freshness
+4013,D21,5,9.2,No Criticism
+4013,DI,5,9.2,No Criticism
+4014,D10,5,9.4,No Criticism
+4014,D14,5,9,Lacks Freshness
+4014,D17,5,9.2,No Criticism
+4014,D21,5,9.2,No Criticism
+4014,DI,5,9.5,No Criticism
+4016,D10,4,6,"Light Oxidized, Lipid Oxidized, Milk Carton"
+4016,D14,5,6,Light Oxidized
+4016,D17,5,5.7,"Light Oxidized, Lipid Oxidized"
+4016,DI,5,7.3,Light Oxidized
+4019,D10,5,5.9,"Light Oxidized, Lipid Oxidized"
+4019,DI,5,7.7,Light Oxidized
+4037,D10,6,2.6,"High Acid, Rancid"
+4037,DI,6,9.2,Flat
+4038,D10,6,5.3,Fruity Fermented
+4038,DI,6,9.2,No Criticism
+4039,D10,6,8.9,Not clearly defined
+4039,D14,6,0.5,"Coagulated, Unclean"
+4039,DI,6,9.1,No Criticism
+4044,D10,6,8.8,Cooked
+4044,D14,6,2.9,"Coagulated, Lacks Freshness"
+4044,DI,6,9,Cooked
+4045,D10,6,8.8,Cooked
+4045,D14,6,0.2,"Coagulated, Rancid"
+4045,DI,6,9.1,Cooked
+4046,D10,6,8.6,Lacks Freshness
+4046,D14,6,8.7,Lacks Freshness
+4046,DI,6,9,Cooked
+4047,D10,6,8.8,Flat
+4047,D14,6,1.8,"Coagulated, Lacks Freshness"
+4047,DI,6,9,Cooked
+4048,D14,6,5,Other: Band-aid
+4048,DI,6,9.1,"Cocoa Sedimentation, Not sweet enough, Too thin, Weak Chocolate Flavor"
+4049,D14,6,3.9,"Coagulated, Cooked, Lacks Freshness"
+4049,DI,6,8.4,Cooked
+4051,D10,6,8.6,"Cooked, Flat"
+4051,D14,6,5.2,"Coagulated, Lacks Freshness"
+4051,DI,6,8.8,Light Oxidized
+4052,D10,6,9.3,No Criticism
+4052,D14,6,2.3,"Coagulated, Rancid"
+4052,DI,6,7.5,Light Oxidized
+4053,D10,6,8.3,Flat
+4053,D14,6,8.5,"Flat, Lacks Freshness"
+4053,D17,5,8.8,Lacks Freshness
+4053,D21,6,8.2,Lacks Freshness
+4053,DI,6,8.8,Not clearly defined
+4054,D10,6,8.6,Not clearly defined
+4054,D14,6,7.8,"Lacks Freshness, Malty"
+4054,D17,5,9,Lacks Freshness
+4054,D21,6,8.7,Lacks Freshness
+4054,DI,6,8.3,Light Oxidized
+4059,D10,6,5.9,"Light Oxidized, Lipid Oxidized"
+4059,DI,6,8.1,Cooked
+4101,D10,6,8.7,Lacks Freshness
+4101,D14,6,9.4,No Criticism
+4101,D17,6,9.2,No Criticism
+4101,D21,6,8.6,Lacks Freshness
+4101,DI,6,9.7,No Criticism
+4102,D10,6,6.7,"Fruity Fermented, Lacks Freshness"
+4102,D14,6,0.1,Coagulated
+4102,D17,6,9.1,Lacks Freshness
+4102,D21,6,7.2,"Lacks Freshness, Malty"
+4102,DI,6,9.7,No Criticism
+4103,D10,6,8.9,Lacks Freshness
+4103,D14,6,8.8,Lacks Freshness
+4103,D17,6,7.6,"Cooked, Lacks Freshness"
+4103,D21,6,5,Malty
+4103,DI,6,9.1,No Criticism
+4104,D10,6,9,Lacks Freshness
+4104,D14,6,8.8,Lacks Freshness
+4104,D17,6,8.9,Not clearly defined
+4104,D21,6,6.7,Not clearly defined
+4104,DI,6,9.6,No Criticism
+4110,D10,6,9,No Criticism
+4110,D14,6,5.6,Lipid Oxidized
+4110,D17,6,7.7,Not clearly defined
+4110,D21,6,2.9,Lipid Oxidized
+4110,DI,6,8.2,Cooked
+4113,D10,6,6.5,"Lipid Oxidized, Milk Carton"
+4113,D14,6,4,"Lacks Freshness, Lipid Oxidized"
+4113,D17,6,7.2,"Cooked, Lipid Oxidized"
+4113,D21,6,4.7,Lipid Oxidized
+4113,DI,6,7.4,"Cooked, Lipid Oxidized"
+4114,D10,6,8.7,"Cooked, Lacks Freshness"
+4114,D14,6,8.4,Cooked
+4114,D17,6,7.8,Lacks Freshness
+4114,D21,6,4.3,Unclean
+4114,DI,6,8.7,Cooked
+4116,D10,6,9.2,Cooked
+4116,D14,6,9,Lacks Freshness
+4116,DI,6,8.9,"Cooked, Flat"
+4117,D10,6,9.4,No Criticism
+4117,D14,6,8.4,Lacks Freshness
+4117,DI,6,9.1,"Cooked, Flat"
+4118,D10,6,8.4,Lacks Freshness
+4118,D14,6,0.1,"Bitter, Coagulated"
+4118,DI,6,9,Cooked
+4121,D10,6,7.5,Rancid
+4121,D14,6,8.4,Cooked
+4121,DI,5,8.9,Not clearly defined
+4122,D10,6,8,Rancid
+4122,D14,6,7.5,Not clearly defined
+4122,DI,5,9.1,No Criticism
+4123,D10,6,9.2,No Criticism
+4123,D14,6,8.3,Lacks Freshness
+4123,DI,5,8.7,"Cooked, Flat"
+4128,D10,6,8.9,Not clearly defined
+4128,D14,6,7.7,Rancid
+4128,D17,6,8.4,Not clearly defined
+4128,D21,6,7.3,"Cooked, Lacks Freshness"
+4128,DI,5,9.2,No Criticism
+4129,D10,6,9.1,No Criticism
+4129,D14,6,8.6,Not clearly defined
+4129,D17,6,8.2,Not clearly defined
+4129,D21,6,0.2,"Coagulated, Rancid"
+4129,DI,5,9.2,No Criticism
+4130,D10,6,7.1,Not clearly defined
+4130,D14,6,8.7,Not clearly defined
+4130,D17,6,6.2,Cooked
+4130,D21,6,4.2,Fruity Fermented
+4130,DI,5,9.3,No Criticism
+4131,D10,6,9,No Criticism
+4131,D14,6,7.8,Not clearly defined
+4131,D17,6,8.7,Cooked
+4131,D21,6,6.9,Not clearly defined
+4131,DI,5,9.4,No Criticism
+4132,D14,6,8.9,Not clearly defined
+4132,DI,6,9.1,No Criticism
+4134,D14,6,0.2,"Bitter, Coagulated"
+4140,D10,6,9.4,No Criticism
+4140,D14,6,8.9,Not clearly defined
+4140,D17,6,8.1,Flat
+4140,D21,6,0.8,"Coagulated, Rancid, Unclean"
+4140,DI,5,9.2,No Criticism
+4141,D10,6,9.4,No Criticism
+4141,D14,6,0.9,"Bitter, Coagulated"
+4141,DI,5,9.4,No Criticism
+4142,D10,6,8.8,Not clearly defined
+4142,D14,6,8.8,Not clearly defined
+4142,D17,6,6.8,Lacks Freshness
+4142,D21,6,7.7,Lacks Freshness
+4142,DI,5,9.3,No Criticism
+4146,D10,6,7.7,"Lacks Freshness, Rancid"
+4146,D14,6,6.2,Coagulated
+4146,D17,6,5.1,"Coagulated, Other: Floating chunks of fat"
+4146,DI,6,8.3,Light Oxidized
+4147,D10,6,9.4,No Criticism
+4147,D14,6,7.7,Lacks Freshness
+4147,D17,6,7.6,Rancid
+4147,D21,5,4.1,Rancid
+4147,DI,6,7.8,"Cooked, Lacks Freshness, Rancid"
+4148,D10,6,9.2,Cooked
+4148,D14,6,8.8,Not clearly defined
+4148,D17,6,8.2,Lacks Freshness
+4148,D21,5,7.8,Lacks Freshness
+4148,DI,6,9.2,No Criticism
+4158,D10,6,6.8,Lipid Oxidized
+4158,D14,6,7.1,"Lipid Oxidized, Milk Carton"
+4158,D17,5,6.3,Lipid Oxidized
+4158,D21,5,6.6,Lipid Oxidized
+4158,DI,6,7.3,Lipid Oxidized
+4161,D10,6,9.3,No Criticism
+4161,D14,6,8.3,Lacks Freshness
+4161,DI,6,9,No Criticism
+4162,D10,6,9.2,No Criticism
+4162,D14,6,8.9,Lacks Freshness
+4162,DI,6,9.1,Cooked
+4163,D10,6,8.8,Lacks Freshness
+4163,D14,6,7.8,Lacks Freshness
+4163,DI,6,8.8,Not clearly defined
+4166,D10,6,9.3,No Criticism
+4166,D14,6,8,Lacks Freshness
+4166,D17,6,8.4,Not clearly defined
+4166,D21,6,7.4,Rancid
+4166,DI,6,9.6,No Criticism
+4167,D10,6,9.3,No Criticism
+4167,D14,6,9.4,No Criticism
+4167,D17,6,8.4,Not clearly defined
+4167,D21,6,7.1,Rancid
+4167,DI,5,8.5,Not clearly defined
+4168,D10,6,7.6,"Light Oxidized, Milk Carton"
+4168,D14,6,8,"Lacks Freshness, Milk Carton"
+4168,D17,6,7.8,Not clearly defined
+4168,D21,6,7.4,Lacks Freshness
+4168,DI,6,9.6,No Criticism
+4169,D10,6,9.5,No Criticism
+4169,D14,6,9.5,No Criticism
+4169,D17,6,8.6,Not clearly defined
+4169,D21,6,9.3,Lacks Freshness
+4169,DI,6,9.8,No Criticism
+4170,D14,6,7.6,Not clearly defined
+4170,DI,6,8.5,"Cocoa Sedimentation, Too light"
+4171,D14,6,7.3,Milk Carton
+4171,DI,6,8,"Light Oxidized, Milk Carton"
+4176,D14,6,5,Not clearly defined
+4176,DI,6,8.2,Milk Carton
+4178,D10,6,9.6,No Criticism
+4178,D14,6,9.1,Lacks Freshness
+4178,D17,6,8.7,Not clearly defined
+4178,D21,6,8.4,Not clearly defined
+4178,DI,6,9.6,No Criticism
+4179,D10,6,9.4,No Criticism
+4179,D14,6,9.3,No Criticism
+4179,D17,6,7.9,Not clearly defined
+4179,D21,6,7,Rancid
+4179,DI,6,9.3,No Criticism
+4180,D10,6,8.7,Not clearly defined
+4180,D14,6,9.3,No Criticism
+4180,D17,6,7.6,Not clearly defined
+4180,D21,6,6.6,Lacks Freshness
+4180,DI,6,9.1,No Criticism
+4181,D10,6,9.6,No Criticism
+4181,D14,6,9.2,No Criticism
+4181,D17,6,6.6,Not clearly defined
+4181,D21,6,7.2,Not clearly defined
+4181,DI,6,9.4,No Criticism
+4182,D14,6,6.4,Not clearly defined
+4182,DI,6,8.8,"Cocoa Sedimentation, Too light"
+4183,D14,6,7.6,Rancid
+4183,DI,6,9.2,No Criticism
+4184,D14,6,4.5,Fruity Fermented
+4184,DI,6,8.4,Milk Carton
+4187,D10,5,9.1,No Criticism
+4187,D14,6,7.5,Rancid
+4187,D17,5,9.1,No Criticism
+4187,D21,5,8,Not clearly defined
+4187,DI,5,9.6,No Criticism
+4188,D10,5,9.4,No Criticism
+4188,D14,6,9.4,No Criticism
+4188,D17,5,8.5,Not clearly defined
+4188,D21,6,8.6,Not clearly defined
+4188,DI,5,9.3,No Criticism
+4189,D10,5,9.2,No Criticism
+4189,D14,6,8.2,Lacks Freshness
+4189,D17,5,6.8,Lacks Freshness
+4189,D21,6,7.8,Not clearly defined
+4189,DI,5,9.4,No Criticism
+4190,D10,5,9.6,No Criticism
+4190,D14,6,9.4,No Criticism
+4190,D17,5,7.5,Not clearly defined
+4190,D21,6,8.2,Lacks Freshness
+4190,DI,5,9.7,No Criticism
+4194,D10,5,8.2,Cooked
+4194,D14,6,8.5,Cooked
+4194,D17,5,7.2,Cooked
+4194,D21,5,8.2,Cooked
+4194,DI,6,9.4,Cooked
+4196,D10,6,9.3,No Criticism
+4196,D14,6,8.8,Lacks Freshness
+4196,DI,5,9.6,No Criticism
+4197,D10,5,9.5,Cooked
+4197,D14,6,0,Coagulated
+4197,DI,5,9.5,No Criticism
+4198,D10,6,9.2,No Criticism
+4198,D14,6,9.4,No Criticism
+4198,DI,5,9.2,Flat
+4199,D10,6,9.4,No Criticism
+4199,D14,6,1.7,"Bitter, Coagulated, Rancid"
+4199,DI,5,9.6,No Criticism
+4200,D14,6,8.1,Not clearly defined
+4202,D14,6,0.7,Coagulated
+4202,DI,6,9.6,No Criticism
+4203,D14,6,8.3,Not clearly defined
+4203,DI,6,8.5,Milk Carton
+4206,D10,6,9.4,Cooked
+4206,D14,6,4.7,Fruity Fermented
+4206,DI,5,8.8,Cooked
+4209,D10,6,9.2,No Criticism
+4209,D14,5,7.4,Not clearly defined
+4209,D17,6,2,Unclean
+4209,DI,6,9.2,No Criticism
+4210,D10,6,7.6,Malty
+4210,D14,5,1.4,"Coagulated, Rancid"
+4210,DI,6,9.3,No Criticism
+4211,D10,6,7.8,Lacks Freshness
+4211,D14,5,9,Lacks Freshness
+4211,D17,6,5.6,"Milk Carton, Other: Chlorine odor"
+4211,DI,6,9.3,No Criticism
+4212,D10,6,7.9,Not clearly defined
+4212,D14,5,1.4,"Coagulated, Rancid"
+4212,DI,6,9.3,No Criticism
+4216,D10,6,9.4,No Criticism
+4216,D14,5,7.3,Not clearly defined
+4216,D17,6,7.4,Lacks Freshness
+4216,D21,6,4.6,"High Acid, Rancid"
+4216,DI,6,8.8,Not clearly defined
+4217,D10,6,7.9,Flat
+4217,D14,5,7.5,Lacks Freshness
+4217,D17,6,8.9,Not clearly defined
+4217,D21,6,9.4,No Criticism
+4217,DI,6,9.2,No Criticism
+4218,D10,6,7.5,Lacks Freshness
+4218,D14,5,8.8,Lacks Freshness
+4218,D17,6,7.7,Lacks Freshness
+4218,D21,6,8.1,Lacks Freshness
+4218,DI,6,9.3,No Criticism
+4219,D10,6,8.2,Not clearly defined
+4219,D14,5,3.4,"Coagulated, Lacks Freshness"
+4219,DI,6,8.6,Not clearly defined
+4220,D14,5,9.3,No Criticism
+4220,DI,6,8.8,Not clearly defined
+4221,D14,5,6.9,Not clearly defined
+4221,DI,6,9.3,Milk Carton
+4224,D14,5,5.2,"Coagulated, Milk Carton"
+4224,DI,6,8.9,Milk Carton
+4227,D10,6,9.1,No Criticism
+4227,D14,5,7,Lacks Freshness
+4227,D17,6,8.5,Not clearly defined
+4227,D21,6,8.6,Not clearly defined
+4227,DI,6,9.2,No Criticism
+4228,D10,6,8,Not clearly defined
+4228,D14,5,7.6,Not clearly defined
+4228,D17,6,9,Cooked
+4228,D21,6,8.7,Not clearly defined
+4228,DI,6,9.2,Cooked
+4229,D10,6,7.8,Not clearly defined
+4229,D14,5,9.2,Lacks Freshness
+4229,D17,6,8,Lacks Freshness
+4229,D21,6,8.6,Lacks Freshness
+4229,DI,6,9.2,Flat
+4230,D10,6,8.3,Lacks Freshness
+4230,D14,5,8,Not clearly defined
+4230,D17,6,8.4,Not clearly defined
+4230,D21,6,9.2,No Criticism
+4230,DI,6,9.1,No Criticism
+4236,D10,6,7.9,Not clearly defined
+4236,D14,6,3.2,"Coagulated, Fruity Fermented"
+4236,DI,6,8.3,"Cooked, Milk Carton"
+4237,D10,6,7,Rancid
+4237,D14,6,3.5,"Coagulated, Rancid"
+4237,DI,6,6.7,Cooked
+4238,D10,6,7.9,Light Oxidized
+4238,D14,6,7.8,"Lacks Freshness, Light Oxidized"
+4238,DI,6,6.7,Not clearly defined
+4240,D10,6,9.2,No Criticism
+4240,D14,6,6.8,"Lacks Freshness, Rancid"
+4240,DI,4,9.2,No Criticism
+4241,D10,6,9,Lacks Freshness
+4241,D14,6,8.3,Not clearly defined
+4241,DI,4,9.6,No Criticism
+4242,D10,6,8.8,Lacks Freshness
+4242,D14,6,6,Lacks Freshness
+4242,DI,4,9.4,No Criticism
+4243,D10,6,9.3,No Criticism
+4243,D14,6,8.7,"Cooked, Lacks Freshness"
+4243,DI,4,8.9,Not clearly defined
+4249,D10,6,9.1,Lacks Freshness
+4249,D14,6,8.1,Lacks Freshness
+4249,D17,5,8.4,Lacks Freshness
+4249,D21,6,8.1,Lacks Freshness
+4249,DI,5,8.6,Not clearly defined
+4250,D10,6,9.2,Cooked
+4250,D14,6,8.7,Lacks Freshness
+4250,D17,5,8.9,Not clearly defined
+4250,D21,6,0.8,"Coagulated, Rancid"
+4250,DI,5,9.3,No Criticism
+4251,D10,6,8.9,Lacks Freshness
+4251,D14,6,7.5,Lacks Freshness
+4251,D17,5,7.2,Rancid
+4251,D21,6,6.9,Not clearly defined
+4251,DI,5,9,No Criticism
+4256,D14,6,5.5,Cooked
+4256,DI,4,8.4,Milk Carton
+4258,D10,6,8.8,Cooked
+4258,D14,6,7.1,Lacks Freshness
+4258,D17,6,8.6,Cooked
+4258,D21,6,7.7,Not clearly defined
+4258,DI,5,9.5,No Criticism
+4259,D10,6,9.1,Lacks Freshness
+4259,D14,6,8.9,Lacks Freshness
+4259,D17,5,8.7,Lacks Freshness
+4259,D21,6,8.5,Lacks Freshness
+4259,DI,5,9.4,No Criticism
+4260,D10,5,7.8,Lacks Freshness
+4260,D14,6,8,"Cooked, Lacks Freshness"
+4260,D17,6,7.5,Lacks Freshness
+4260,D21,6,5.1,Lacks Freshness
+4260,DI,5,8.7,Not clearly defined
+4266,D10,6,9.4,No Criticism
+4266,D14,6,7.8,Not clearly defined
+4266,D17,5,8.4,Not clearly defined
+4266,D21,6,8.4,Lacks Freshness
+4266,DI,4,7.8,Light Oxidized
+4267,D10,6,8.9,Light Oxidized
+4267,D14,6,8.6,Lacks Freshness
+4267,D17,5,9,No Criticism
+4267,D21,6,8.8,"Cooked, Lacks Freshness"
+4267,DI,4,8.1,Light Oxidized
+4268,D14,6,6,Lacks Freshness
+4268,DI,4,7,Cocoa Sedimentation
+4269,D14,6,4.7,Not clearly defined
+4269,DI,4,9.4,No Criticism
+4271,D14,6,2.1,"Rancid, Unclean"
+4273,D10,6,8.4,Not clearly defined
+4273,D14,6,2.2,"Coagulated, Unclean"
+4273,DI,6,8.8,"Cooked, Lacks Freshness"
+4274,D10,6,8.7,Lacks Freshness
+4274,D14,6,0.6,Coagulated
+4274,DI,6,9.1,Lacks Freshness
+4275,D10,6,7.8,Lacks Freshness
+4275,D14,6,7.6,"Cooked, Lacks Freshness"
+4275,DI,6,8.8,Lacks Freshness
+4278,D14,5,7.2,Cooked
+4278,D17,6,7.2,Lipid Oxidized
+4278,D21,6,4.6,"Light Oxidized, Lipid Oxidized"
+4278,DI,5,7.2,Not clearly defined
+4281,D10,6,3.6,"Fruity Fermented, Rancid"
+4281,DI,4,7.3,Cooked
+4282,D10,6,7.1,Cooked
+4282,D14,6,3,"Coagulated, Unclean"
+4282,DI,4,9,Cooked
+4284,D10,5,7.4,"Cooked, Lacks Freshness"
+4284,D14,5,8.4,Cooked
+4284,D17,5,8.1,"Cooked, Lacks Freshness"
+4284,D21,5,3.8,"High Acid, Lacks Freshness, Rancid"
+4284,DI,5,7.1,"Cooked, Rancid"
+4285,D10,5,8.3,"Cooked, Lacks Freshness"
+4285,D14,5,8.5,"Cooked, Lacks Freshness"
+4285,D17,5,8.2,Lacks Freshness
+4285,D21,5,6.7,"Cooked, Lacks Freshness, Rancid"
+4285,DI,5,7.3,"Cooked, Rancid"
+4286,D10,5,9,No Criticism
+4286,D14,5,8.6,Lacks Freshness
+4286,D17,5,8.8,Lacks Freshness
+4286,D21,5,8.6,Lacks Freshness
+4286,DI,5,8.5,"Cooked, Lacks Freshness"
+4287,D10,5,8.2,Not clearly defined
+4287,D14,5,8.5,Lacks Freshness
+4287,D17,5,8.5,Cooked
+4287,D21,5,6.2,"Lacks Freshness, Rancid"
+4287,DI,5,6.7,"Cooked, Rancid"
+4288,D14,4,8.5,Not clearly defined
+4288,DI,5,8.8,"Cocoa Sedimentation, Too sweet, Too thin, Weak Chocolate Flavor"
+4289,D14,5,3.2,"Fruity Fermented, Unclean"
+4289,DI,5,8.2,Cooked
+4291,D14,5,7.7,"Lacks Freshness, Milk Carton"
+4291,DI,5,8.5,Milk Carton
+4294,D10,5,9.4,No Criticism
+4294,D14,5,5,Rancid
+4294,D17,5,3.3,"Fruity Fermented, Lacks Freshness, Rancid"
+4294,DI,5,9.5,No Criticism
+4295,D10,5,9,Flat
+4295,D14,5,9.3,No Criticism
+4295,D17,5,9.3,No Criticism
+4295,D21,5,8.9,Not clearly defined
+4295,DI,5,9.6,No Criticism
+4296,D10,5,9.1,No Criticism
+4296,D14,5,8.1,Not clearly defined
+4296,D17,5,7.1,Lacks Freshness
+4296,D21,5,8.3,Lacks Freshness
+4296,DI,5,9.2,No Criticism
+4297,D10,5,9.4,No Criticism
+4297,D14,5,9.1,Lacks Freshness
+4297,D17,5,8.5,Lacks Freshness
+4297,D21,5,8.8,Lacks Freshness
+4297,DI,5,9.5,No Criticism
+4298,D14,5,8.9,Not clearly defined
+4298,DI,5,8.5,Cocoa Sedimentation
+4299,D14,5,9,No Criticism
+4299,DI,5,9.4,No Criticism
+4302,D14,5,8.4,Lacks Freshness
+4302,DI,5,8.9,Milk Carton
+4306,D10,5,8.9,Not clearly defined
+4306,D14,5,9.3,No Criticism
+4306,D17,5,8.9,Not clearly defined
+4306,D21,5,9.2,No Criticism
+4306,DI,5,9.5,No Criticism
+4307,D10,5,9.1,No Criticism
+4307,D14,5,8.9,Flat
+4307,D17,5,9,No Criticism
+4307,D21,5,9,Cooked
+4307,DI,5,9.1,No Criticism
+4308,D10,5,9,No Criticism
+4308,D14,5,8.7,Lacks Freshness
+4308,D17,5,6.9,Lacks Freshness
+4308,D21,5,8,Lacks Freshness
+4308,DI,5,9.5,No Criticism
+4309,D10,5,9,No Criticism
+4309,D14,5,8.5,Lacks Freshness
+4309,D17,5,8.6,Lacks Freshness
+4309,D21,5,8.2,Not clearly defined
+4309,DI,5,9.4,No Criticism
+4318,D10,4,9,No Criticism
+4318,D14,5,9.2,No Criticism
+4318,D17,4,8.9,Not clearly defined
+4318,D21,5,9.1,No Criticism
+4318,DI,5,9.7,No Criticism
+4319,D10,4,9.4,No Criticism
+4319,D14,5,9.4,No Criticism
+4319,D17,4,9.4,No Criticism
+4319,D21,5,9,Lacks Freshness
+4319,DI,5,9.7,No Criticism
+4320,D10,4,6.4,Lacks Freshness
+4320,D14,5,8.6,Lacks Freshness
+4320,D17,4,8.8,Lacks Freshness
+4320,D21,5,8.5,Lacks Freshness
+4320,DI,5,9.4,No Criticism
+4321,D10,4,9.2,No Criticism
+4321,D14,5,9.2,No Criticism
+4321,D17,4,9.2,No Criticism
+4321,D21,5,9,Lacks Freshness
+4321,DI,5,9.4,No Criticism
+4325,D10,5,9.4,Cooked
+4325,D14,4,6.1,Lacks Freshness
+4325,DI,5,8.6,Cooked
+4326,D10,5,9.2,Cooked
+4326,D14,4,9,Cooked
+4326,DI,5,8.6,Cooked
+4327,D10,5,8.1,"Cooked, Lacks Freshness"
+4327,D14,4,6.8,"Cooked, Other: Cabbage odor"
+4327,DI,5,8,Cooked
+4329,D10,6,8.2,Cooked
+4329,D14,6,9.6,No Criticism
+4329,D17,6,9.2,Lacks Freshness
+4329,D21,6,8.9,Lacks Freshness
+4329,DI,6,9.4,No Criticism
+4330,D10,6,9.3,No Criticism
+4330,D14,6,9.4,No Criticism
+4330,D17,6,9.1,Lacks Freshness
+4330,D21,6,9,No Criticism
+4330,DI,6,9.6,No Criticism
+4331,D10,6,7.9,Light Oxidized
+4331,D14,6,6.9,"Lacks Freshness, Malty"
+4331,D17,6,9.2,Lacks Freshness
+4331,D21,6,6.2,Lacks Freshness
+4331,DI,6,9.4,No Criticism
+4332,D10,6,5.1,Malty
+4332,DI,6,9.5,No Criticism
+4339,D10,5,8.6,No Criticism
+4339,D14,5,9.2,No Criticism
+4339,D17,6,9.4,No Criticism
+4339,D21,6,9.1,Lacks Freshness
+4339,DI,6,9.4,Cooked
+4340,D10,5,9.5,No Criticism
+4340,D14,5,9.4,No Criticism
+4340,D17,6,9.1,Lacks Freshness
+4340,D21,6,8.6,Lacks Freshness
+4340,DI,6,9.5,No Criticism
+4341,D10,5,7.5,No Criticism
+4341,D14,5,8.9,Lacks Freshness
+4341,D17,6,9,Lacks Freshness
+4341,D21,6,7.9,"Bitter, Lacks Freshness"
+4341,DI,6,9.3,Cooked
+4342,D10,5,9.4,No Criticism
+4342,D14,5,4.6,Fruity Fermented
+4342,DI,6,9.5,No Criticism
+4353,D10,5,9.1,No Criticism
+4353,D14,5,8.9,No Criticism
+4353,DI,6,8.6,Cooked
+4354,D10,5,9,No Criticism
+4354,D14,5,4.4,"Bitter, Coagulated, Lacks Freshness"
+4354,DI,6,9.1,Cooked
+4355,D10,5,9.3,No Criticism
+4355,D14,5,9.1,Lacks Freshness
+4355,DI,6,9.1,No Criticism
+4358,D10,6,9.5,No Criticism
+4358,D14,6,9.3,No Criticism
+4358,D17,6,9.5,No Criticism
+4358,D21,6,9.4,No Criticism
+4358,DI,6,9.7,No Criticism
+4359,D10,6,9.4,No Criticism
+4359,D14,6,9.5,No Criticism
+4359,D17,6,9.3,No Criticism
+4359,D21,6,0,"Coagulated, Rancid"
+4359,DI,6,8.9,Light Oxidized
+4360,D10,6,9,Lacks Freshness
+4360,D14,6,9,Lacks Freshness
+4360,D17,6,8.7,Lacks Freshness
+4360,D21,6,7.4,"Bitter, Lacks Freshness"
+4360,DI,6,9.5,No Criticism
+4364,D10,5,9.5,No Criticism
+4364,D14,6,9.2,No Criticism
+4364,D17,6,9.3,No Criticism
+4364,DI,5,9.3,No Criticism
+4365,D10,5,9.4,No Criticism
+4365,D14,6,9.2,No Criticism
+4365,D17,6,9.2,Cooked
+4365,D21,5,6.9,Lacks Freshness
+4365,DI,5,9.5,No Criticism
+4366,D10,5,9.1,No Criticism
+4366,D14,6,8.8,Lacks Freshness
+4366,D17,6,0.4,"Bitter, Coagulated, Unclean"
+4366,D21,5,0.4,"Coagulated, Unclean"
+4366,DI,5,9.2,No Criticism
+4367,D10,5,8.9,Not clearly defined
+4367,D14,6,9.3,No Criticism
+4367,D17,6,8.9,Not clearly defined
+4367,D21,5,8.9,Not clearly defined
+4367,DI,5,9.3,No Criticism
+4368,D14,6,7.9,Lacks Freshness
+4368,DI,6,8.5,"Cocoa Sedimentation, Too light"
+4369,D14,6,9.3,No Criticism
+4369,DI,6,9.4,No Criticism
+4371,D14,6,8.8,Lacks Freshness
+4386,D10,6,8.7,"Cooked, Lipid Oxidized"
+4386,D14,5,7.1,Not clearly defined
+4386,D17,6,6.6,"Lacks Freshness, Lipid Oxidized"
+4386,D21,6,7.1,"Lacks Freshness, Lipid Oxidized"
+4386,DI,5,8.4,Cooked
+4435,D10,6,6.1,"Lacks Freshness, Rancid"
+4435,D14,6,0.2,"Coagulated, Rancid, Unclean"
+4435,DI,6,8.7,Light Oxidized
+4436,D10,6,9.2,No Criticism
+4436,D14,6,8.4,Lacks Freshness
+4436,D17,6,8,Not clearly defined
+4436,D21,6,8.1,Lacks Freshness
+4436,DI,6,9.4,No Criticism
+4437,D10,6,8.1,Lacks Freshness
+4437,D14,6,8.9,Not clearly defined
+4437,D17,6,8.8,Lacks Freshness
+4437,D21,6,5.8,Lacks Freshness
+4437,DI,6,9.2,No Criticism
+4438,D10,6,8.9,Not clearly defined
+4438,D14,6,0.5,"Coagulated, Rancid, Unclean"
+4438,DI,6,8.6,Not clearly defined
+4444,D10,6,9.1,No Criticism
+4444,D14,6,8.8,Cooked
+4444,DI,6,8.7,Lacks Freshness
+4445,D10,6,8.6,"Cooked, Lacks Freshness"
+4445,D14,6,2.5,"Fruity Fermented, High Acid"
+4445,DI,6,7.6,"Cooked, Malty"
+4446,D10,6,4.6,"Lacks Freshness, Unclean"
+4446,DI,6,8,"Cooked, Lacks Freshness"
+4453,D10,5,8,Not clearly defined
+4453,D14,6,8.5,Cooked
+4453,D17,6,8.5,Cooked
+4453,D21,6,8.8,"Cooked, Lacks Freshness"
+4453,DI,6,8.8,Cooked
+4455,D10,5,7.3,"Cooked, Lipid Oxidized"
+4455,D14,6,7.6,"Light Oxidized, Lipid Oxidized"
+4455,D17,6,6.8,"Lacks Freshness, Lipid Oxidized"
+4455,D21,6,6.6,"Light Oxidized, Lipid Oxidized"
+4455,DI,6,7,"Light Oxidized, Lipid Oxidized"
+4457,D10,5,6,Rancid
+4457,D14,6,5.9,"Lacks Freshness, Rancid"
+4457,DI,6,8.3,Not clearly defined
+4459,D10,6,9.5,No Criticism
+4459,D14,6,0.1,"Coagulated, High Acid"
+4459,DI,4,9.3,No Criticism
+4460,D10,6,7.9,"Cooked, Rancid"
+4460,D14,6,1.7,"Coagulated, Fruity Fermented, Rancid"
+4460,DI,4,9.6,No Criticism
+4461,D10,6,7.9,Milk Carton
+4461,D14,6,7.3,"Lacks Freshness, Milk Carton"
+4461,D17,5,7.2,Not clearly defined
+4461,D21,4,0,"Coagulated, High Acid"
+4461,DI,4,8.7,Light Oxidized
+4462,D10,6,9.5,No Criticism
+4462,D14,6,9.2,Lacks Freshness
+4462,D17,5,5.1,High Acid
+4462,DI,4,8.8,No Criticism
+4463,D14,6,8.6,Not clearly defined
+4463,DI,6,8.1,"Cocoa Sedimentation, Too light, Too sweet, Weak Chocolate Flavor"
+4464,D14,6,9,No Criticism
+4464,DI,6,9,Milk Carton
+4469,D14,6,8.2,Milk Carton
+4469,DI,6,8.5,"Light Oxidized, Milk Carton"
+4471,D14,6,8.8,Milk Carton
+4471,DI,6,9.1,No Criticism
+4476,D10,6,9.4,No Criticism
+4476,D14,6,8.6,Lacks Freshness
+4476,D17,4,9.4,No Criticism
+4476,D21,5,8.1,No Criticism
+4476,DI,4,9,No Criticism
+4477,D10,6,9.4,No Criticism
+4477,D14,6,8.1,Not clearly defined
+4477,D17,4,9.4,No Criticism
+4477,D21,5,9.3,No Criticism
+4477,DI,4,7.7,Light Oxidized
+4478,D10,6,9,No Criticism
+4478,D14,6,9.4,No Criticism
+4478,D17,4,8.8,No Criticism
+4478,D21,5,8.7,Lacks Freshness
+4478,DI,4,9.5,No Criticism
+4479,D10,6,9.2,No Criticism
+4479,D14,6,8.5,Lacks Freshness
+4479,D17,4,9.2,No Criticism
+4479,D21,5,8.7,No Criticism
+4479,DI,4,8.3,Not clearly defined
+4480,D14,6,7.9,Other: Band-aid
+4480,DI,5,8.1,"Cocoa Sedimentation, Too sweet, Weak Chocolate Aroma, Weak Chocolate Flavor"
+4483,D14,6,8.6,Not clearly defined
+4483,DI,6,9.5,No Criticism
+4485,D14,6,9.3,No Criticism
+4485,DI,6,8.2,Light Oxidized
+4486,D14,6,7.2,Lacks Freshness
+4486,DI,6,6.6,Light Oxidized
+4488,D10,6,9.4,No Criticism
+4488,D14,6,8.6,Not clearly defined
+4488,D17,4,8.9,No Criticism
+4488,D21,5,7.9,"Lacks Freshness, Rancid"
+4488,DI,4,9.8,No Criticism
+4489,D10,6,9.6,No Criticism
+4489,D14,6,4.2,Other: Skunk odor
+4489,DI,4,9.5,No Criticism
+4490,D10,6,9.4,No Criticism
+4490,D14,6,9.3,No Criticism
+4490,D17,5,2.5,Other: Skunk odor
+4490,DI,4,9.4,No Criticism
+4494,D10,6,6.4,Lacks Freshness
+4494,D14,6,0.1,"Coagulated, Other: Pink color"
+4494,DI,4,8.8,Cooked
+4495,D10,6,9.4,No Criticism
+4495,D14,6,0,"Coagulated, Other: Pink color, Unclean"
+4495,DI,4,9.1,Cooked
+4498,D10,6,9.5,No Criticism
+4498,D14,6,8.8,Lacks Freshness
+4498,D17,5,9.4,No Criticism
+4498,D21,4,9.1,No Criticism
+4498,DI,4,9.4,No Criticism
+4499,D10,6,9.7,No Criticism
+4499,D14,6,9.3,No Criticism
+4499,D17,5,9.1,No Criticism
+4499,D21,4,0,"Coagulated, Rancid"
+4499,DI,4,9.4,No Criticism
+4500,D10,6,9,Milk Carton
+4500,D14,6,9,Milk Carton
+4500,D17,5,7.3,Milk Carton
+4500,D21,4,7,Lacks Freshness
+4500,DI,4,9.2,Milk Carton
+4501,D10,6,9.5,No Criticism
+4501,D14,6,8.8,Not clearly defined
+4501,D17,5,8.8,"Lacks Freshness, Milk Carton"
+4501,D21,4,8.7,No Criticism
+4501,DI,4,9.4,No Criticism
+4504,D14,6,3.3,"Bitter, Coagulated"
+4504,DI,4,9.6,No Criticism
+4506,D14,6,4.7,Bitter
+4506,DI,4,9.1,No Criticism
+4508,D10,5,9.3,No Criticism
+4508,D14,6,7.8,"Bitter, Cooked"
+4508,D17,6,0.9,"Bitter, Coagulated"
+4508,DI,5,9.1,Cooked
+4509,D10,5,9.5,Cooked
+4509,D14,6,8.9,Cooked
+4509,D17,6,9.2,No Criticism
+4509,D21,6,6.7,Fruity Fermented
+4509,DI,5,9.4,Cooked
+4510,D10,5,9.3,Cooked
+4510,D14,6,9.2,Cooked
+4510,D17,6,7.6,Cooked
+4510,D21,6,4.8,"Lacks Freshness, Unclean"
+4510,DI,5,9.3,No Criticism
+4511,D10,5,9.5,Cooked
+4511,D14,6,9.2,Cooked
+4511,D17,6,9.2,Cooked
+4511,D21,6,8.7,Cooked
+4511,DI,5,9.4,Cooked
+4513,D14,6,8.8,Milk Carton
+4513,DI,5,9.2,No Criticism
+4516,D10,5,9.7,No Criticism
+4516,D14,4,9.6,Cooked
+4516,D17,6,9.5,Cooked
+4516,D21,6,8.4,Cooked
+4516,DI,5,9.3,No Criticism
+4517,D10,5,9.7,No Criticism
+4517,D14,4,9.4,Cooked
+4517,D17,6,8.8,Cooked
+4517,D21,6,9.4,No Criticism
+4517,DI,5,9.6,No Criticism
+4518,D10,5,9.2,No Criticism
+4518,D14,4,9.1,Lacks Freshness
+4518,D17,6,8.7,Lacks Freshness
+4518,D21,6,8.7,Lacks Freshness
+4518,DI,5,9.1,No Criticism
+4519,D10,5,9.6,No Criticism
+4519,D14,4,9.5,Cooked
+4519,D17,6,9.4,No Criticism
+4519,D21,6,9.3,Cooked
+4519,DI,5,9.5,No Criticism
+4523,D10,5,6.8,Not clearly defined
+4523,D14,6,1.2,"Bitter, Coagulated"
+4523,DI,5,9,Cooked
+4524,D10,5,9.4,No Criticism
+4524,D14,6,0.6,Coagulated
+4524,DI,5,9.7,No Criticism
+4525,D10,5,8.3,Flat
+4525,D14,6,1.4,"Bitter, Coagulated, Unclean"
+4525,DI,5,8.4,Flat
+4528,D10,5,9.4,No Criticism
+4528,D14,6,9.1,"Cooked, Lacks Freshness"
+4528,D17,6,9,Cooked
+4528,D21,6,9,Cooked
+4528,DI,5,9.2,Cooked
+4529,D10,5,8.3,Not clearly defined
+4529,D14,6,6.9,"Bitter, Fruity Fermented"
+4529,D17,6,6.9,Lacks Freshness
+4529,D21,6,4,"Fruity Fermented, Lacks Freshness, Unclean"
+4529,DI,5,9.1,Cooked
+4530,D10,5,9.1,Cooked
+4530,D14,6,2.2,"Bitter, Coagulated, Unclean"
+4530,DI,5,8.8,Cooked
+4535,D10,5,9.4,No Criticism
+4535,D14,6,9.5,No Criticism
+4535,D17,6,9.2,No Criticism
+4535,D21,6,9.2,No Criticism
+4535,DI,5,8.4,No Criticism
+4536,D10,5,9.6,No Criticism
+4536,D14,6,8.9,Not clearly defined
+4536,D17,6,8.8,Not clearly defined
+4536,D21,6,7.5,Light Oxidized
+4536,DI,5,9.1,No Criticism
+4537,D10,5,8.1,Not clearly defined
+4537,D14,6,7.7,"Fruity Fermented, Lacks Freshness, Milk Carton"
+4537,D17,6,7.3,"Lacks Freshness, Light Oxidized, Milk Carton"
+4537,D21,6,0,Coagulated
+4537,DI,5,8.1,No Criticism
+4541,D10,6,9,Cooked
+4541,D14,6,9.2,Cooked
+4541,D17,6,8.1,No Criticism
+4541,D21,6,5,Not clearly defined
+4541,DI,6,8.2,Cooked
+4544,D10,6,6.4,Lipid Oxidized
+4544,D14,6,6.8,Lipid Oxidized
+4544,D17,6,5.2,Lipid Oxidized
+4544,DI,6,7,Lipid Oxidized
+4547,D10,6,9.6,No Criticism
+4547,D14,6,9.6,No Criticism
+4547,D17,6,9.4,No Criticism
+4547,D21,6,7.1,Not clearly defined
+4547,DI,6,9.7,No Criticism
+4548,D10,6,9.3,No Criticism
+4548,D14,6,7.6,Not clearly defined
+4548,D17,6,1.7,"Bitter, Coagulated"
+4548,DI,6,9.6,No Criticism
+4549,D10,6,8.8,No Criticism
+4549,D14,6,9.1,No Criticism
+4549,D17,6,9,No Criticism
+4549,D21,6,8.9,Lacks Freshness
+4549,DI,6,9.4,No Criticism
+4550,D10,6,9.4,No Criticism
+4550,D14,6,9.5,No Criticism
+4550,D17,6,9.3,No Criticism
+4550,D21,6,9.5,No Criticism
+4550,DI,6,9.5,No Criticism
+4556,D10,6,9.5,No Criticism
+4556,D14,6,9.6,No Criticism
+4556,D17,6,9.4,No Criticism
+4556,D21,6,9.4,No Criticism
+4556,DI,6,9.4,No Criticism
+4557,D10,6,9.2,No Criticism
+4557,D14,6,9.6,No Criticism
+4557,D17,6,9,No Criticism
+4557,D21,6,9.3,No Criticism
+4557,DI,6,9.4,No Criticism
+4558,D10,6,9.1,No Criticism
+4558,D14,6,9.2,No Criticism
+4558,D17,6,8.2,Not clearly defined
+4558,D21,6,1.4,"Foreign, Chemical, Other: Bleach odor, Unclean"
+4558,DI,6,9,No Criticism
+4559,D10,6,9.4,Cooked
+4559,D14,6,9.4,Cooked
+4559,D17,6,9.3,Cooked
+4559,D21,6,9.2,Cooked
+4559,DI,6,9.6,No Criticism
+4567,D10,6,8.6,Not clearly defined
+4567,D14,6,8.1,Not clearly defined
+4567,D17,6,9.3,No Criticism
+4567,D21,6,8.5,Not clearly defined
+4567,DI,6,9,Light Oxidized
+4568,D10,6,7.9,Light Oxidized
+4568,D14,6,8.4,Not clearly defined
+4568,D17,6,9.4,No Criticism
+4568,D21,6,8.5,Not clearly defined
+4568,DI,6,8.4,Light Oxidized
+4569,D10,6,8.7,Light Oxidized
+4569,D14,6,7.2,Not clearly defined
+4569,D17,6,9.2,No Criticism
+4569,D21,6,9.1,No Criticism
+4569,DI,6,8.8,Light Oxidized
+4570,D10,6,9,Lacks Freshness
+4570,D14,6,9.2,No Criticism
+4570,D17,6,9.4,No Criticism
+4570,D21,6,9.2,No Criticism
+4570,DI,6,9.3,No Criticism
+4571,D14,6,8.4,Not clearly defined
+4571,DI,6,7.6,"Atypical Chocolate Flavor, Cocoa Sedimentation, Weak Chocolate Flavor"
+4572,D14,6,8.1,Not clearly defined
+4572,DI,6,8.5,Light Oxidized
+4575,D14,6,7.3,Lacks Freshness
+4575,DI,6,8.1,Light Oxidized
+4576,D14,6,7.2,"Fruity Fermented, Lacks Freshness"
+4576,DI,6,8.7,Milk Carton
+4578,D14,6,8.7,Lacks Freshness
+4578,DI,6,8.7,Not clearly defined
+4580,D10,5,9.1,No Criticism
+4580,D14,6,9.2,No Criticism
+4580,D17,6,6.2,"Lacks Freshness, Rancid"
+4580,D21,5,4.6,"High Acid, Lacks Freshness"
+4580,DI,5,9.6,No Criticism
+4581,D10,5,9.2,No Criticism
+4581,D14,6,9.2,No Criticism
+4581,D17,6,8.4,Not clearly defined
+4581,D21,5,8.7,Not clearly defined
+4581,DI,5,9.5,No Criticism
+4582,D10,5,7.8,Lacks Freshness
+4582,D14,6,8.8,Not clearly defined
+4582,D17,6,8.4,Not clearly defined
+4582,D21,5,8.2,Lacks Freshness
+4582,DI,5,9.1,No Criticism
+4583,D10,5,8.6,Not clearly defined
+4583,D14,6,9.1,No Criticism
+4583,D17,6,9.4,No Criticism
+4583,D21,5,9.1,No Criticism
+4583,DI,5,9.4,No Criticism
+4595,D10,6,9.4,No Criticism
+4595,D14,6,5,"Bitter, Coagulated, Lacks Freshness"
+4595,DI,6,9.6,No Criticism
+4596,D10,6,9.4,No Criticism
+4596,D14,6,9.4,No Criticism
+4596,D17,5,9.2,No Criticism
+4596,D21,6,8.6,Lacks Freshness
+4596,DI,6,9.6,No Criticism
+4597,D10,6,9,No Criticism
+4597,D14,6,9.2,No Criticism
+4597,D17,5,8.7,Not clearly defined
+4597,D21,6,7.5,Lacks Freshness
+4597,DI,6,9.5,No Criticism
+4602,D10,6,9.6,No Criticism
+4602,D14,6,9.2,No Criticism
+4602,D17,6,9.4,No Criticism
+4602,D21,6,9.2,No Criticism
+4602,DI,6,8.9,Cooked
+4603,D10,6,9.6,No Criticism
+4603,D14,6,9.3,No Criticism
+4603,D17,6,9.4,No Criticism
+4603,D21,6,9.2,No Criticism
+4603,DI,6,9.7,No Criticism
+4604,D10,6,8.8,Flat
+4604,D14,6,8.5,"Cooked, Lacks Freshness, Milk Carton"
+4604,D17,6,9,Lacks Freshness
+4604,D21,6,7.7,Lacks Freshness
+4604,DI,6,9.7,No Criticism
+4605,D10,6,9.4,Cooked
+4605,D14,6,9.1,No Criticism
+4605,D17,6,9.2,No Criticism
+4605,D21,6,9,Lacks Freshness
+4605,DI,6,9.6,No Criticism
+4606,D14,6,8.4,Lacks Freshness
+4606,DI,6,8.8,Weak Chocolate Flavor
+4607,D14,6,8.6,Lacks Freshness
+4607,DI,6,8.5,Not clearly defined
+4608,D14,6,7.9,Milk Carton
+4608,DI,6,8.3,Milk Carton
+4609,D14,6,9.2,No Criticism
+4609,DI,6,9.4,Milk Carton
+4613,D10,6,9.4,Cooked
+4613,D14,6,8.6,No Criticism
+4613,D17,6,8.2,Not clearly defined
+4613,D21,6,7.9,Not clearly defined
+4613,DI,5,9.4,No Criticism
+4614,D10,6,9.3,Cooked
+4614,D14,6,8.1,Lacks Freshness
+4614,D17,6,8.1,Cooked
+4614,D21,6,8.2,Not clearly defined
+4614,DI,5,9.8,No Criticism
+4615,D10,6,9,No Criticism
+4615,D14,6,8.4,Lacks Freshness
+4615,D17,6,8.9,Lacks Freshness
+4615,D21,6,8.3,Lacks Freshness
+4615,DI,5,9.3,No Criticism
+4616,D10,6,9.5,No Criticism
+4616,D14,6,8.9,Cooked
+4616,D17,6,9.3,No Criticism
+4616,D21,6,8.6,Cooked
+4616,DI,5,9.2,No Criticism
+4622,D10,6,9.4,No Criticism
+4622,D14,6,9.2,Lacks Freshness
+4622,D17,6,7.8,Lacks Freshness
+4622,D21,6,6.9,Lacks Freshness
+4622,DI,5,9.1,Cooked
+4623,D10,6,8.3,No Criticism
+4623,D14,6,0.8,"Bitter, Coagulated"
+4623,DI,5,9.4,No Criticism
+4624,D10,6,8.7,No Criticism
+4624,D14,6,8.2,No Criticism
+4624,D17,6,6.7,Not clearly defined
+4624,D21,6,5.9,Not clearly defined
+4624,DI,5,9.7,No Criticism
+4625,D10,6,9.2,No Criticism
+4625,D14,6,9.4,No Criticism
+4625,D17,6,9.3,No Criticism
+4625,D21,6,8.8,Not clearly defined
+4625,DI,5,9.3,No Criticism
+4628,D10,6,9.3,No Criticism
+4628,D14,6,8.6,Cooked
+4628,D17,6,8.8,No Criticism
+4628,D21,6,8.6,No Criticism
+4628,DI,6,9,Cooked
+4629,D14,6,8.8,Cooked
+4629,D17,6,1.8,"Bitter, Coagulated, Cooked"
+4629,DI,6,9,Cooked
+4631,D10,6,9.1,No Criticism
+4631,D14,6,0.7,Coagulated
+4631,DI,5,8.8,Cooked
+4632,D10,6,9.3,No Criticism
+4632,D14,6,2.3,"Bitter, Coagulated"
+4632,DI,5,8.6,Cooked
+4636,D10,6,8.7,Not clearly defined
+4636,D14,6,8.5,Not clearly defined
+4636,D17,5,9.1,No Criticism
+4636,D21,6,8,Not clearly defined
+4636,DI,6,9.6,No Criticism
+4637,D10,6,8.6,Not clearly defined
+4637,D14,6,8.5,Not clearly defined
+4637,D17,5,8.2,Not clearly defined
+4637,D21,6,6.4,"Coagulated, Other: Small chunks of fat"
+4637,DI,6,9.7,No Criticism
+4638,D10,6,9.4,No Criticism
+4638,D14,6,4.9,Not clearly defined
+4638,DI,6,9.7,No Criticism
+4639,D10,6,9.6,No Criticism
+4639,D14,6,9.1,No Criticism
+4639,D17,5,9.3,No Criticism
+4639,D21,6,9.1,No Criticism
+4639,DI,6,9.6,No Criticism
+4640,D14,6,9,No Criticism
+4640,DI,6,9,Too sweet
+4645,D14,6,6.4,Not clearly defined
+4645,DI,6,9.1,No Criticism
+4647,D10,6,9.5,No Criticism
+4647,D14,6,8.4,Cooked
+4647,D17,5,9,No Criticism
+4647,D21,6,7.7,Not clearly defined
+4647,DI,6,9.2,No Criticism
+4648,D10,6,9.4,No Criticism
+4648,D14,6,9.3,Cooked
+4648,D17,5,9.1,No Criticism
+4648,D21,6,8,Cooked
+4648,DI,6,9.7,Cooked
+4649,D10,6,9,Light Oxidized
+4649,D14,6,8.6,Not clearly defined
+4649,D17,5,8.3,Not clearly defined
+4649,D21,6,8.9,Milk Carton
+4649,DI,6,9.7,No Criticism
+4650,D10,6,9.5,No Criticism
+4650,D14,6,9.4,No Criticism
+4650,D17,5,8.2,Not clearly defined
+4650,D21,6,9,Cooked
+4650,DI,6,9.5,No Criticism
+4651,D14,6,7.7,Milk Carton
+4651,DI,6,8.4,Milk Carton
+4654,D14,6,8.5,Milk Carton
+4654,DI,6,8.3,Milk Carton
+4658,D14,6,8.8,Milk Carton
+4658,DI,6,9.1,Milk Carton
+4659,D10,5,9.2,No Criticism
+4659,D14,6,8.6,Cooked
+4659,DI,6,9.2,No Criticism
+4660,D10,5,9.2,Cooked
+4660,D14,6,8.8,Cooked
+4660,DI,6,9.1,Cooked
+4661,D10,5,8.9,Cooked
+4661,D14,6,4.8,Not clearly defined
+4661,DI,6,9,No Criticism
+4662,D10,6,9.4,No Criticism
+4662,D14,6,0.5,Coagulated
+4662,DI,6,9.1,Flat
+4663,D10,6,7.5,Not clearly defined
+4663,D14,6,2.2,"Coagulated, Rancid"
+4663,DI,6,9.6,No Criticism
+4664,D10,5,9.3,No Criticism
+4664,D14,6,9.1,No Criticism
+4664,DI,6,9,No Criticism
+4665,D10,6,6.4,"Foreign, Chemical, Other: Bleach odor"
+4665,D14,6,2.6,"Coagulated, Rancid"
+4665,DI,6,8.1,Light Oxidized
+4666,D14,6,0.7,Coagulated
+4667,D14,6,1.3,"Rancid, Unclean"
+4667,DI,6,9.5,No Criticism
+4668,D14,6,0.7,"Coagulated, High Acid"
+4668,DI,6,8.5,Milk Carton
+4669,D10,6,9,No Criticism
+4669,D14,6,8.9,Cooked
+4669,D17,5,8.7,Not clearly defined
+4669,D21,6,8,Cooked
+4669,DI,6,9.4,No Criticism

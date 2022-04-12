@@ -1,0 +1,594 @@
+ID,plantID,projectNumber,product,sampleID,milkCategory,milkType,size,container,quantity,dateProcessed,dateCode,dateCollected,dateInitial
+3960,M,438,Core,32,Pasteurized White Milk,2%,Half gal,Plastic,1,1/11/2016,1/29/2016,1/13/2016,1/14/2016
+4310,M,448,Extras,35,Pasteurized Chocolate Milk,1% Chocolate,Gal,Plastic,1,1/9/2017,1/27/2017,1/11/2017,1/12/2017
+4312,M,448,Extras,32-2,Pasteurized White Milk,2%,Gal,Plastic,1,1/9/2017,1/27/2017,1/11/2017,1/12/2017
+4230,M,446,Core,34,Pasteurized White Milk,1%,Half gal,Plastic,1,9/26/2016,10/14/2016,9/28/2016,9/28/2016
+4616,M,456,Core,24,Pasteurized White Milk,1%,Half gal,Plastic,1,9/25/2017,10/13/2017,9/27/2017,9/28/2017
+4309,M,448,Core,34,Pasteurized White Milk,1%,Half gal,Plastic,1,1/9/2017,1/27/2017,1/11/2017,1/12/2017
+4307,M,448,Core,32,Pasteurized White Milk,2%,Half gal,Plastic,1,1/9/2017,1/27/2017,1/11/2017,1/12/2017
+4306,M,448,Core,31,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,1/9/2017,1/27/2017,1/11/2017,1/12/2017
+4620,M,456,Extras,23-2,Pasteurized White Milk,Skim,Gal,Plastic,1,9/25/2017,10/13/2017,9/27/2017,9/28/2017
+4316,M,448,Extras,33-3,Pasteurized White Milk,Skim,qt,Plastic,1,1/9/2017,1/27/2017,1/11/2017,1/12/2017
+4613,M,456,Core,21,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,9/25/2017,10/13/2017,9/27/2017,9/28/2017
+3961,M,438,Core,33,Pasteurized White Milk,Skim,Half gal,Plastic,1,1/11/2016,1/29/2016,1/13/2016,1/14/2016
+3962,M,438,Core,34,Pasteurized White Milk,1%,Half gal,Plastic,1,1/11/2016,1/29/2016,1/13/2016,1/14/2016
+4228,M,446,Core,32,Pasteurized White Milk,2%,Half gal,Plastic,1,9/26/2016,10/14/2016,9/28/2016,9/28/2016
+4233,M,446,Extras,33-1,Pasteurized White Milk,Skim,Gal,Plastic,1,9/26/2016,10/14/2016,9/28/2016,9/28/2016
+4614,M,456,Core,22,Pasteurized White Milk,2%,Half gal,Plastic,1,9/25/2017,10/13/2017,9/27/2017,9/28/2017
+4617,M,456,Extras,22-1,Pasteurized White Milk,2%,Gal,Plastic,1,9/25/2017,10/13/2017,9/27/2017,9/28/2017
+4308,M,448,Core,33,Pasteurized White Milk,Skim,Half gal,Plastic,1,1/9/2017,1/27/2017,1/11/2017,1/12/2017
+4618,M,456,Extras,22-2,Pasteurized White Milk,2%,Gal,Plastic,1,9/25/2017,10/13/2017,9/27/2017,9/28/2017
+4232,M,446,Extras,32-2,Pasteurized White Milk,2%,Gal,Plastic,1,9/26/2016,10/14/2016,9/28/2016,9/28/2016
+4234,M,446,Extras,33-2,Pasteurized White Milk,Skim,Gal,Plastic,1,9/26/2016,10/14/2016,9/28/2016,9/28/2016
+4619,M,456,Extras,23-1,Pasteurized White Milk,Skim,Gal,Plastic,1,9/25/2017,10/13/2017,9/27/2017,9/28/2017
+3837,M,433,Core,31,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,7/13/2015,7/31/2015,7/15/2015,7/16/2015
+4311,M,448,Extras,32-1,Pasteurized White Milk,2%,Gal,Plastic,1,1/9/2017,1/27/2017,1/11/2017,1/12/2017
+4313,M,448,Extras,32-3,Pasteurized White Milk,2%,qt,Plastic,1,1/9/2017,1/27/2017,1/11/2017,1/12/2017
+4615,M,456,Core,23,Pasteurized White Milk,Skim,Half gal,Plastic,1,9/25/2017,10/13/2017,9/27/2017,9/28/2017
+4231,M,446,Extras,32-1,Pasteurized White Milk,2%,Gal,Plastic,1,9/26/2016,10/14/2016,9/28/2016,9/28/2016
+4229,M,446,Core,33,Pasteurized White Milk,Skim,Half gal,Plastic,1,9/26/2016,10/14/2016,9/28/2016,9/28/2016
+3840,M,433,Core,34,Pasteurized White Milk,1%,Half gal,Plastic,1,7/13/2015,7/31/2015,7/15/2015,7/16/2015
+4314,M,448,Extras,33-1,Pasteurized White Milk,Skim,Gal,Plastic,1,1/9/2017,1/27/2017,1/11/2017,1/12/2017
+4315,M,448,Extras,33-2,Pasteurized White Milk,Skim,Gal,Plastic,1,1/9/2017,1/27/2017,1/11/2017,1/12/2017
+3838,M,433,Core,32,Pasteurized White Milk,2%,Half gal,Plastic,1,7/13/2015,7/31/2015,7/15/2015,7/16/2015
+3839,M,433,Core,33,Pasteurized White Milk,Skim,Half gal,Plastic,1,7/13/2015,7/31/2015,7/15/2015,7/16/2015
+4227,M,446,Core,31,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,9/26/2016,10/14/2016,9/28/2016,9/28/2016
+4266,N,447,Core,42,Pasteurized White Milk,2%,Half gal,Plastic,1,10/25/2016,11/11/2016,10/27/2016,10/27/2016
+3970,N,438,Core,12,Pasteurized White Milk,2%,Half gal,Plastic,1,1/18/2016,2/5/2016,1/20/2016,1/20/2016
+4481,N,452,Extras,21-1,Pasteurized White Milk,Homogenized,Half gal,Paper,1,5/16/2017,6/3/2017,5/18/2017,5/18/2017
+4573,N,455,Extras,2-Nov,Pasteurized White Milk,Homogenized,14 oz,Plastic,2,8/29/2017,9/18/2017,8/31/2017,8/31/2017
+3969,N,438,Core,11,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,1/18/2016,2/5/2016,1/20/2016,1/20/2016
+4572,N,455,Single Serve,1-Nov,Pasteurized White Milk,Homogenized,Half pint,Paper,4,8/29/2017,9/16/2017,8/31/2017,8/31/2017
+4485,N,452,Single Serve,23-1,Pasteurized White Milk,Skim,Half pint,Paper,2,5/16/2017,6/3/2017,5/18/2017,5/18/2017
+4479,N,452,Core,24,Pasteurized White Milk,1%,Half gal,Plastic,1,5/16/2017,6/3/2017,5/18/2017,5/18/2017
+4480,N,452,Single Serve,25,Pasteurized Chocolate Milk,Skim Chocolate,Half pint,Paper,3,5/16/2017,6/3/2017,5/18/2017,5/18/2017
+4268,N,447,Single Serve,45,Pasteurized Chocolate Milk,Skim Chocolate,Half pint,Paper,3,10/25/2016,11/11/2016,10/27/2016,10/27/2016
+3830,N,433,Core,14,Pasteurized White Milk,1%,Half gal,Plastic,1,7/14/2015,8/1/2015,7/16/2015,7/16/2015
+3829,N,433,Core,12,Pasteurized White Milk,2%,Half gal,Plastic,1,7/14/2015,8/1/2015,7/16/2015,7/16/2015
+4574,N,455,Extras,3-Nov,Pasteurized White Milk,Homogenized,Half gal,Paper,1,8/29/2017,9/16/2017,8/31/2017,8/31/2017
+4476,N,452,Core,21,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,5/16/2017,6/3/2017,5/18/2017,5/18/2017
+4482,N,452,Extras,21-2,Pasteurized White Milk,Homogenized,Gal,Plastic,1,5/16/2017,6/3/2017,5/18/2017,5/18/2017
+3971,N,438,Core,13,Pasteurized White Milk,Skim,Half gal,Plastic,1,1/18/2016,2/5/2016,1/20/2016,1/20/2016
+3972,N,438,Core,14,Pasteurized White Milk,1%,Half gal,Plastic,1,1/18/2016,2/5/2016,1/20/2016,1/20/2016
+4478,N,452,Core,23,Pasteurized White Milk,Skim,Half gal,Plastic,1,5/16/2017,6/3/2017,5/18/2017,5/18/2017
+4575,N,455,Single Serve,1-Dec,Pasteurized White Milk,2%,Half pint,Paper,4,8/29/2017,9/16/2017,8/31/2017,8/31/2017
+4567,N,455,Core,11,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,8/29/2017,9/16/2017,8/31/2017,8/31/2017
+4568,N,455,Core,12,Pasteurized White Milk,2%,Half gal,Plastic,1,8/29/2017,9/16/2017,8/31/2017,8/31/2017
+4578,N,455,Single Serve,14-1,Pasteurized White Milk,1%,Half pint,Paper,4,8/29/2017,9/16/2017,8/31/2017,8/31/2017
+4269,N,447,Single Serve,42-1,Pasteurized White Milk,2%,Half pint,Paper,3,10/25/2016,11/11/2016,10/27/2016,10/27/2016
+4270,N,447,Extras,42-2,Pasteurized White Milk,2%,Gal,Plastic,1,10/25/2016,11/11/2016,10/27/2016,10/27/2016
+4570,N,455,Core,14,Pasteurized White Milk,1%,Half gal,Plastic,1,8/29/2017,9/16/2017,8/31/2017,8/31/2017
+4483,N,452,Single Serve,22-1,Pasteurized White Milk,2%,Half pint,Paper,3,5/16/2017,6/3/2017,5/18/2017,5/18/2017
+4272,N,447,Extras,43-2,Pasteurized White Milk,Skim,Gal,Plastic,1,10/25/2016,11/11/2016,10/27/2016,10/27/2016
+3828,N,433,Core,11,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,7/14/2015,8/1/2015,7/16/2015,7/16/2015
+4267,N,447,Core,44,Pasteurized White Milk,1%,Half gal,Plastic,1,10/25/2016,11/11/2016,10/27/2016,10/27/2016
+4571,N,455,Single Serve,15,Pasteurized Chocolate Milk,Skim Chocolate,Half pint,Paper,4,8/29/2017,9/16/2017,8/31/2017,8/31/2017
+4484,N,452,Extras,22-2,Pasteurized White Milk,2%,Gal,Plastic,1,5/16/2017,6/3/2017,5/18/2017,5/18/2017
+4569,N,455,Core,13,Pasteurized White Milk,Skim,Half gal,Plastic,1,8/29/2017,9/16/2017,8/31/2017,8/31/2017
+4576,N,455,Single Serve,13-1,Pasteurized White Milk,Skim,Half pint,Paper,4,8/29/2017,9/16/2017,8/31/2017,8/31/2017
+4577,N,455,Extras,13-2,Pasteurized White Milk,Skim,14 oz,Plastic,2,8/29/2017,9/18/2017,8/31/2017,8/31/2017
+4271,N,447,Single Serve,43-1,Pasteurized White Milk,Skim,Half pint,Paper,2,10/25/2016,11/11/2016,10/27/2016,10/27/2016
+4486,N,452,Single Serve,24-1,Pasteurized White Milk,1%,Half pint,Paper,1,5/16/2017,6/3/2017,5/18/2017,5/18/2017
+4477,N,452,Core,22,Pasteurized White Milk,2%,Half gal,Plastic,1,5/16/2017,6/3/2017,5/18/2017,5/18/2017
+4184,Q,445,Single Serve,23-1,Pasteurized White Milk,Skim,8 oz,Paper,4,8/29/2016,9/16/2016,9/1/2016,9/1/2016
+4367,Q,450,Core,14,Pasteurized White Milk,1%,Half gal,Plastic,1,3/13/2017,3/31/2017,3/16/2017,3/16/2017
+4372,Q,450,Extras,13-2,Pasteurized White Milk,Skim,Gal,Plastic,1,3/13/2017,3/31/2017,3/16/2017,3/16/2017
+4185,Q,445,Extras,23-2,Pasteurized White Milk,Skim,Gal,Plastic,1,8/29/2016,9/16/2016,9/1/2016,9/1/2016
+4366,Q,450,Core,13,Pasteurized White Milk,Skim,Half gal,Plastic,1,3/13/2017,3/31/2017,3/16/2017,3/16/2017
+4371,Q,450,Single Serve,13-1,Pasteurized White Milk,Skim,8 oz,Paper,3,3/14/2017,4/1/2017,3/16/2017,3/16/2017
+4608,Q,456,Single Serve,13-1,Pasteurized White Milk,Skim,8 oz,Paper,3,9/25/2017,10/13/2017,9/27/2017,9/28/2017
+4181,Q,445,Core,24,Pasteurized White Milk,1%,Half gal,Plastic,1,8/29/2016,9/16/2016,9/1/2016,9/1/2016
+4368,Q,450,Single Serve,15,Pasteurized Chocolate Milk,Skim Chocolate,8 oz,Paper,4,3/13/2017,3/31/2017,3/16/2017,3/16/2017
+3955,Q,438,Core,21,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,1/11/2016,1/29/2016,1/13/2016,1/14/2016
+3832,Q,433,Core,21,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,7/13/2015,7/31/2015,7/14/2015,7/16/2015
+3956,Q,438,Core,22,Pasteurized White Milk,2%,Half gal,Plastic,1,1/11/2016,1/29/2016,1/13/2016,1/14/2016
+3957,Q,438,Core,23,Pasteurized White Milk,Skim,Half gal,Plastic,1,1/11/2016,1/29/2016,1/13/2016,1/14/2016
+3958,Q,438,Core,24,Pasteurized White Milk,1%,Half gal,Plastic,1,1/11/2016,1/29/2016,1/13/2016,1/14/2016
+4183,Q,445,Single Serve,22-1,Pasteurized White Milk,2%,8 oz,Paper,4,8/30/2016,9/17/2016,9/1/2016,9/1/2016
+4180,Q,445,Core,23,Pasteurized White Milk,Skim,Half gal,Plastic,1,8/29/2016,9/16/2016,9/1/2016,9/1/2016
+3833,Q,433,Core,22,Pasteurized White Milk,2%,Half gal,Plastic,1,7/13/2015,7/31/2015,7/14/2015,7/16/2015
+3834,Q,433,Core,23,Pasteurized White Milk,Skim,Half gal,Plastic,1,7/13/2015,7/31/2015,7/14/2015,7/16/2015
+3835,Q,433,Core,24,Pasteurized White Milk,1%,Half gal,Plastic,1,7/13/2015,7/31/2015,7/14/2015,7/16/2015
+4182,Q,445,Single Serve,25,Pasteurized Chocolate Milk,Skim Chocolate,8 oz,Paper,4,8/29/2016,9/16/2016,9/1/2016,9/1/2016
+4178,Q,445,Core,21,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,8/29/2016,9/16/2016,9/1/2016,9/1/2016
+4604,Q,456,Core,13,Pasteurized White Milk,Skim,Half gal,Plastic,1,9/25/2017,10/13/2017,9/27/2017,9/28/2017
+4602,Q,456,Core,11,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,9/25/2017,10/13/2017,9/27/2017,9/28/2017
+4179,Q,445,Core,22,Pasteurized White Milk,2%,Half gal,Plastic,1,8/29/2016,9/16/2016,9/1/2016,9/1/2016
+4609,Q,456,Single Serve,14-1,Pasteurized White Milk,1%,8 oz,Paper,4,9/25/2017,10/13/2017,9/27/2017,9/28/2017
+4370,Q,450,Extras,2-Dec,Pasteurized White Milk,2%,Gal,Plastic,1,3/13/2017,3/31/2017,3/16/2017,3/16/2017
+4606,Q,456,Single Serve,15,Pasteurized Chocolate Milk,Skim Chocolate,8 oz,Paper,4,9/25/2017,10/13/2017,9/27/2017,9/28/2017
+4605,Q,456,Core,14,Pasteurized White Milk,1%,Half gal,Plastic,1,9/25/2017,10/13/2017,9/27/2017,9/28/2017
+4364,Q,450,Core,11,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,3/13/2017,3/31/2017,3/16/2017,3/16/2017
+4603,Q,456,Core,12,Pasteurized White Milk,2%,Half gal,Plastic,1,9/25/2017,10/13/2017,9/27/2017,9/28/2017
+4607,Q,456,Single Serve,1-Dec,Pasteurized White Milk,2%,8 oz,Paper,4,9/25/2017,10/13/2017,9/27/2017,9/28/2017
+4369,Q,450,Single Serve,1-Dec,Pasteurized White Milk,2%,8 oz,Paper,4,3/13/2017,3/31/2017,3/16/2017,3/16/2017
+4365,Q,450,Core,12,Pasteurized White Milk,2%,Half gal,Plastic,1,3/13/2017,3/31/2017,3/16/2017,3/16/2017
+3998,A,440,Core,21,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,3/14/2016,3/30/2016,3/15/2016,3/16/2016
+3872,A,435,Core,22,Pasteurized White Milk,2%,Half gal,Plastic,1,9/14/2015,9/30/2015,9/15/2015,9/16/2015
+3875,A,435,Extras,22-1,Pasteurized White Milk,2%,qt,Glass,1,9/14/2015,9/30/2015,9/15/2015,9/16/2015
+3873,A,435,Core,23,Pasteurized White Milk,Skim,Half gal,Plastic,1,9/14/2015,9/30/2015,9/15/2015,9/16/2015
+4488,A,452,Core,31,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,5/16/2017,6/2/2017,5/17/2017,5/18/2017
+3874,A,435,Extras,25,Pasteurized Chocolate Milk,Chocolate,Half gal,Plastic,1,9/14/2015,9/30/2015,9/15/2015,9/16/2015
+4261,A,447,Extras,35,Pasteurized Chocolate Milk,Chocolate,Half gal,Plastic,1,10/24/2016,11/9/2016,10/26/2016,10/26/2016
+4491,A,452,Extras,35,Pasteurized Chocolate Milk,Chocolate,Half gal,Plastic,1,5/15/2017,5/31/2017,5/17/2017,5/18/2017
+4490,A,452,Core,33,Pasteurized White Milk,Skim,Half gal,Plastic,1,5/15/2017,6/1/2017,5/17/2017,5/18/2017
+4259,A,447,Core,32,Pasteurized White Milk,2%,Half gal,Plastic,1,10/24/2016,11/9/2016,10/26/2016,10/26/2016
+4492,A,452,Extras,31-1,Pasteurized White Milk,Creamline,Half gal,Plastic,1,5/15/2017,5/31/2017,5/17/2017,5/18/2017
+4001,A,440,Extras,25,Pasteurized Chocolate Milk,Chocolate,Half gal,Plastic,1,3/14/2016,3/30/2016,3/15/2016,3/16/2016
+4489,A,452,Core,32,Pasteurized White Milk,2%,Half gal,Plastic,1,5/16/2017,6/2/2017,5/17/2017,5/18/2017
+4260,A,447,Core,33,Pasteurized White Milk,Skim,Half gal,Plastic,1,10/25/2016,11/11/2016,10/26/2016,10/26/2016
+4263,A,447,Extras,32-1,Pasteurized White Milk,2%,qt,Glass,1,10/24/2016,11/8/2016,10/26/2016,10/26/2016
+4599,A,455,Extras,32-1,Pasteurized White Milk,2%,qt,Glass,1,9/4/2017,9/19/2017,9/6/2017,9/7/2017
+3999,A,440,Core,22,Pasteurized White Milk,2%,Half gal,Plastic,1,3/14/2016,3/30/2016,3/15/2016,3/16/2016
+4000,A,440,Core,23,Pasteurized White Milk,Skim,Half gal,Plastic,1,3/14/2016,3/30/2016,3/15/2016,3/16/2016
+4600,A,455,Extras,33-1,Pasteurized White Milk,Skim,qt,Glass,1,9/4/2017,9/19/2017,9/6/2017,9/7/2017
+3871,A,435,Core,21,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,9/14/2015,9/30/2015,9/15/2015,9/16/2015
+4264,A,447,Extras,33-1,Pasteurized White Milk,Skim,qt,Glass,1,10/24/2016,11/8/2016,10/26/2016,10/26/2016
+4258,A,447,Core,31,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,10/25/2016,11/11/2016,10/26/2016,10/26/2016
+4002,A,440,Extras,22-1,Pasteurized White Milk,2%,qt,Glass,1,3/14/2016,3/29/2016,3/15/2016,3/16/2016
+4595,A,455,Core,31,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,9/5/2017,9/22/2017,9/6/2017,9/7/2017
+4596,A,455,Core,32,Pasteurized White Milk,2%,Half gal,Plastic,1,9/4/2017,9/20/2017,9/6/2017,9/7/2017
+4597,A,455,Core,33,Pasteurized White Milk,Skim,Half gal,Plastic,1,9/5/2017,9/22/2017,9/6/2017,9/7/2017
+4598,A,455,Extras,35,Pasteurized Chocolate Milk,Chocolate,Half gal,Plastic,1,8/31/2017,9/16/2017,9/6/2017,8/31/2017
+4544,B,454,Core,21,Pasteurized White Milk,Creamline,Half gal,Plastic,1,8/7/2017,8/31/2017,8/9/2017,8/10/2017
+4545,B,454,Extras,25,Pasteurized Chocolate Milk,Chocolate,Half gal,Plastic,1,8/7/2017,8/31/2017,8/9/2017,8/10/2017
+4017,B,440,Extras,55,Pasteurized Chocolate Milk,Creamline Chocolate,Half gal,Plastic,1,3/15/2016,4/5/2016,3/15/2016,3/16/2016
+3889,B,435,Extras,55,Pasteurized Chocolate Milk,Creamline Chocolate,Half gal,Plastic,1,9/15/2015,10/6/2015,9/15/2015,9/16/2015
+4159,B,444,Extras,35,Pasteurized Chocolate Milk,Creamline Chocolate,Half gal,Plastic,1,8/9/2016,9/1/2016,8/11/2016,8/11/2016
+4456,B,451,Extras,45,Pasteurized Chocolate Milk,Chocolate,Half gal,Plastic,1,4/11/2017,5/4/2017,4/13/2017,4/13/2017
+4016,B,440,Core,51,Pasteurized White Milk,Creamline,Half gal,Plastic,1,3/15/2016,4/5/2016,3/15/2016,3/16/2016
+4158,B,444,Core,31,Pasteurized White Milk,Creamline,Half gal,Plastic,1,8/9/2016,9/1/2016,8/11/2016,8/11/2016
+3888,B,435,Core,51,Pasteurized White Milk,Creamline,Half gal,Plastic,1,9/15/2015,10/6/2015,9/15/2015,9/16/2015
+4455,B,451,Core,41,Pasteurized White Milk,Creamline,Half gal,Plastic,1,4/11/2017,5/4/2017,4/13/2017,4/13/2017
+4194,C,445,Core,41,Pasteurized White Milk,Creamline,Half gal,Plastic,1,8/31/2016,9/21/2016,8/31/2016,9/1/2016
+4019,C,440,Core,61,Pasteurized White Milk,Creamline,Half gal,Plastic,1,3/14/2016,4/4/2016,3/14/2016,3/16/2016
+4386,C,450,Core,31,Pasteurized White Milk,Creamline,Half gal,Plastic,1,3/9/2017,3/30/2017,3/10/2017,3/16/2017
+4669,C,457,Core,51,Pasteurized White Milk,Creamline,Half gal,Plastic,1,10/23/2017,11/13/2017,10/25/2017,10/26/2017
+3890,C,435,Core,61,Pasteurized White Milk,Creamline,Half gal,Plastic,1,9/14/2015,10/5/2015,9/16/2015,9/16/2015
+4628,D,456,Core,41,Pasteurized White Milk,Creamline,Half gal,Plastic,1,9/26/2017,10/17/2017,9/27/2017,9/28/2017
+4115,D,442,Extras,51-1,Pasteurized White Milk,Creamline,Half gal,Plastic,1,5/23/2016,6/13/2016,5/24/2016,5/25/2016
+3923,D,436,Core,63,Pasteurized White Milk,Skim,Half gal,Plastic,1,10/1/2015,10/22/2015,10/6/2015,10/7/2015
+4114,D,442,Core,53,Pasteurized White Milk,Skim,Half gal,Plastic,1,5/24/2016,6/14/2016,5/24/2016,5/25/2016
+4113,D,442,Core,51,Pasteurized White Milk,Creamline,Half gal,Plastic,1,5/23/2016,6/13/2016,5/24/2016,5/25/2016
+4281,D,447,Core,71,Pasteurized White Milk,Creamline,Half gal,Plastic,1,10/25/2016,11/15/2016,10/27/2016,10/27/2016
+4457,D,451,Core,51,Pasteurized White Milk,Creamline,Half gal,Plastic,1,4/12/2017,5/3/2017,4/13/2017,4/13/2017
+3922,D,436,Core,61,Pasteurized White Milk,Creamline,Half gal,Plastic,1,10/6/2015,10/26/2015,10/6/2015,10/7/2015
+4629,D,456,Core,41-1,Pasteurized White Milk,Creamline,Half gal,Plastic,1,9/22/2017,10/13/2017,9/27/2017,9/28/2017
+4282,D,447,Core,73,Pasteurized White Milk,Skim,Half gal,Plastic,1,10/26/2016,11/16/2016,10/27/2016,10/27/2016
+4530,E,453,Core,24,Pasteurized White Milk,1%,Half gal,Plastic,1,7/10/2017,7/26/2017,7/12/2017,7/13/2017
+4039,E,441,Core,14,Pasteurized White Milk,1%,qt,Plastic,2,4/17/2016,5/3/2016,4/19/2016,4/20/2016
+4529,E,453,Core,23,Pasteurized White Milk,Skim Creamline,Half gal,Plastic,1,7/10/2017,7/26/2017,7/12/2017,7/13/2017
+4528,E,453,Core,21,Pasteurized White Milk,Creamline,Half gal,Plastic,1,7/10/2017,7/26/2017,7/12/2017,7/13/2017
+4532,E,453,Extras,23-1,Pasteurized White Milk,Skim Creamline,12 oz,Plastic,4,7/10/2017,7/26/2017,7/12/2017,7/13/2017
+4038,E,441,Core,13,Pasteurized White Milk,Skim Creamline,Half gal,Plastic,1,4/17/2016,5/3/2016,4/19/2016,4/20/2016
+4037,E,441,Core,11,Pasteurized White Milk,Creamline,Half gal,Plastic,1,4/17/2016,5/3/2016,4/19/2016,4/20/2016
+4450,E,451,Extras,24-1,Pasteurized White Milk,1%,12 oz,Plastic,2,4/10/2017,4/26/2017,4/12/2017,4/13/2017
+4449,E,451,Extras,23-2,Pasteurized White Milk,Skim Creamline,qt,Glass,1,4/10/2017,4/26/2017,4/12/2017,4/13/2017
+3895,E,436,Extras,15,Pasteurized Chocolate Milk,1% Chocolate,12 oz,Plastic,1,10/4/2015,10/20/2015,10/6/2015,10/7/2015
+4126,E,443,Extras,14-2,Pasteurized White Milk,1% Creamline,qt,Glass,1,7/11/2016,7/27/2016,7/13/2016,7/13/2016
+4124,E,443,Extras,15,Pasteurized Chocolate Milk,1% Creamline Chocolate,12 oz,Plastic,3,7/11/2016,7/27/2016,7/13/2016,7/13/2016
+4533,E,453,Extras,24-1,Pasteurized White Milk,1%,12 oz,Plastic,4,7/10/2017,7/26/2017,7/12/2017,7/13/2017
+4444,E,451,Core,21,Pasteurized White Milk,Creamline,Half gal,Plastic,1,4/10/2017,4/26/2017,4/12/2017,4/13/2017
+4446,E,451,Core,24,Pasteurized White Milk,1%,Half gal,Plastic,1,4/10/2017,4/26/2017,4/12/2017,4/13/2017
+4448,E,451,Extras,23-1,Pasteurized White Milk,Skim Creamline,12 oz,Plastic,2,4/10/2017,4/26/2017,4/12/2017,4/13/2017
+4125,E,443,Extras,14-1,Pasteurized White Milk,1% Creamline,12 oz,Plastic,4,7/11/2016,7/27/2016,7/13/2016,7/13/2016
+3897,E,436,Extras,14-2,Pasteurized White Milk,1%,qt,Glass,1,10/4/2015,10/20/2015,10/6/2015,10/7/2015
+4445,E,451,Core,23,Pasteurized White Milk,Skim Creamline,Half gal,Plastic,1,4/10/2017,4/26/2017,4/12/2017,4/13/2017
+4123,E,443,Core,14,Pasteurized White Milk,1% Creamline,Half gal,Plastic,1,7/11/2016,7/27/2016,7/13/2016,7/13/2016
+3894,E,436,Core,14,Pasteurized White Milk,1%,Half gal,Plastic,1,10/5/2015,10/21/2015,10/6/2015,10/7/2015
+3896,E,436,Extras,14-1,Pasteurized White Milk,1%,12 oz,Plastic,1,10/4/2015,10/20/2015,10/6/2015,10/7/2015
+4451,E,451,Extras,24-2,Pasteurized White Milk,1%,qt,Glass,1,4/10/2017,4/26/2017,4/12/2017,4/13/2017
+4041,E,441,Extras,14-1,Pasteurized White Milk,1%,12 oz,Plastic,4,4/17/2016,5/3/2016,4/19/2016,4/20/2016
+4531,E,453,Extras,25,Pasteurized Chocolate Milk,1% Chocolate,12 oz,Plastic,4,7/10/2017,7/26/2017,7/12/2017,7/13/2017
+4040,E,441,Extras,15,Pasteurized Chocolate Milk,1% Chocolate,12 oz,Plastic,4,4/17/2016,5/3/2016,4/19/2016,4/20/2016
+3892,E,436,Core,11,Pasteurized White Milk,Creamline,Half gal,Plastic,1,10/5/2015,10/21/2015,10/6/2015,10/7/2015
+4122,E,443,Core,13,Pasteurized White Milk,Skim Creamline,Half gal,Plastic,1,7/11/2016,7/27/2016,7/13/2016,7/13/2016
+4121,E,443,Core,11,Pasteurized White Milk,Creamline,Half gal,Plastic,1,7/11/2016,7/27/2016,7/13/2016,7/13/2016
+4042,E,441,Extras,14-2,Pasteurized White Milk,1%,qt,Glass,1,4/17/2016,5/3/2016,4/19/2016,4/20/2016
+4447,E,451,Extras,25,Pasteurized Chocolate Milk,1% Chocolate,12 oz,Plastic,2,4/9/2017,4/25/2017,4/12/2017,4/13/2017
+3893,E,436,Core,13,Pasteurized White Milk,Skim,Half gal,Plastic,1,10/5/2015,10/21/2015,10/6/2015,10/7/2015
+4278,F,447,Core,61,Pasteurized White Milk,Creamline,Half gal,Plastic,1,10/17/2016,11/4/2016,10/25/2016,10/26/2016
+4453,F,451,Core,31,Pasteurized White Milk,Creamline,Half gal,Plastic,1,4/11/2017,4/29/2017,4/12/2017,4/13/2017
+3921,F,436,Extras,55,Pasteurized Chocolate Milk,Creamline Chocolate,Half gal,Plastic,1,10/6/2015,10/26/2015,10/7/2015,10/7/2015
+3920,F,436,Core,51,Pasteurized White Milk,Creamline,Half gal,Plastic,1,10/6/2015,10/26/2015,10/6/2015,10/7/2015
+4541,F,454,Core,11,Pasteurized White Milk,Creamline,Half gal,Plastic,1,8/7/2017,8/28/2017,8/9/2017,8/10/2017
+4542,F,454,Extras,15,Pasteurized Chocolate Milk,Creamline Chocolate,Half gal,Plastic,1,8/7/2017,8/25/2017,8/9/2017,8/10/2017
+4454,F,451,Extras,35,Pasteurized Chocolate Milk,Creamline Chocolate,Half gal,Plastic,1,4/11/2017,4/29/2017,4/12/2017,4/13/2017
+4059,F,441,Core,41,Pasteurized White Milk,Creamline,Half gal,Plastic,1,4/19/2016,5/7/2016,4/19/2016,4/20/2016
+4060,F,441,Extras,45,Pasteurized Chocolate Milk,Creamline Chocolate,Half gal,Plastic,1,4/19/2016,5/7/2016,4/19/2016,4/20/2016
+4279,F,447,Extras,65,Pasteurized Chocolate Milk,Creamline Chocolate,Half gal,Plastic,1,10/18/2016,11/5/2016,10/25/2016,10/26/2016
+3947,G,437,Extras,45,Pasteurized Chocolate Milk,Creamline Chocolate,pt,Plastic,1,10/23/2015,NoCodeDate,10/27/2015,10/28/2015
+4110,G,442,Core,41,Pasteurized White Milk,Creamline,Half gal,Plastic,1,5/21/2016,NoCodeDate,5/23/2016,5/25/2016
+4111,G,442,Extras,45,Pasteurized Chocolate Milk,Creamline Chocolate,Half gal,Plastic,1,5/19/2016,NoCodeDate,5/23/2016,5/25/2016
+4207,G,445,Extras,65,Pasteurized Chocolate Milk,Creamline Chocolate,Half gal,Plastic,1,8/25/2016,NoCodeDate,8/31/2016,8/31/2016
+3946,G,437,Core,41,Pasteurized White Milk,Creamline,Half gal,Plastic,1,10/27/2015,NoCodeDate,10/27/2015,10/28/2015
+4206,G,445,Core,61,Pasteurized White Milk,Creamline,Half gal,Plastic,1,8/28/2016,NoCodeDate,8/31/2016,8/31/2016
+4535,H,453,Core,41,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,7/10/2017,7/30/2017,7/13/2017,7/13/2017
+4539,H,453,Extras,41-1,Pasteurized White Milk,Homogenized,Gal,Glass,1,7/10/2017,7/30/2017,7/13/2017,7/13/2017
+4361,H,449,Extras,45,Pasteurized Chocolate Milk,Chocolate,Half gal,Plastic,1,2/6/2017,2/26/2017,2/7/2017,2/9/2017
+4537,H,453,Core,43,Pasteurized White Milk,Skim,Half gal,Plastic,1,7/10/2017,7/30/2017,7/13/2017,7/13/2017
+4362,H,449,Extras,41-1,Pasteurized White Milk,Homogenized,Half gal,Glass,1,2/6/2017,2/26/2017,2/7/2017,2/9/2017
+4359,H,449,Core,42,Pasteurized White Milk,1.50%,Half gal,Plastic,1,2/6/2017,2/26/2017,2/7/2017,2/9/2017
+4536,H,453,Core,42,Pasteurized White Milk,2%,Half gal,Plastic,1,7/10/2017,7/30/2017,7/13/2017,7/13/2017
+4358,H,449,Core,41,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,2/6/2017,2/26/2017,2/7/2017,2/9/2017
+4140,H,443,Core,51,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,7/11/2016,7/27/2016,7/12/2016,7/13/2016
+4144,H,443,Extras,51-1,Pasteurized White Milk,Homogenized,Half gal,Glass,1,7/11/2016,7/27/2016,7/12/2016,7/13/2016
+4360,H,449,Core,43,Pasteurized White Milk,Skim,Half gal,Plastic,1,2/6/2017,2/26/2017,2/7/2017,2/9/2017
+4143,H,443,Extras,55,Pasteurized Chocolate Milk,Chocolate,Half gal,Plastic,1,7/11/2016,7/27/2016,7/12/2016,7/13/2016
+4538,H,453,Extras,45,Pasteurized Chocolate Milk,Chocolate,Half gal,Plastic,1,7/10/2017,7/30/2017,7/13/2017,7/13/2017
+4141,H,443,Core,52,Pasteurized White Milk,2%,Half gal,Plastic,1,7/11/2016,7/27/2016,7/12/2016,7/13/2016
+4142,H,443,Core,53,Pasteurized White Milk,Skim,Half gal,Plastic,1,7/11/2016,7/27/2016,7/12/2016,7/13/2016
+3876,I,435,Core,31,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,9/14/2015,10/2/2015,9/15/2015,9/16/2015
+4625,I,456,Core,34,Pasteurized White Milk,1%,Half gal,Plastic,1,9/25/2017,10/13/2017,9/27/2017,9/28/2017
+4341,I,449,Core,23,Pasteurized White Milk,Skim,Half gal,Plastic,1,2/7/2017,2/25/2017,2/9/2017,2/9/2017
+4624,I,456,Core,33,Pasteurized White Milk,Skim,Half gal,Plastic,1,9/25/2017,10/13/2017,9/27/2017,9/28/2017
+4343,I,449,Extras,25,Pasteurized Chocolate Milk,Skim Chocolate,pt,Plastic,1,2/7/2017,3/4/2017,2/9/2017,2/9/2017
+4627,I,456,Extras,32-2,Pasteurized White Milk,2%,qt,Plastic,1,9/25/2017,10/13/2017,9/27/2017,9/28/2017
+4004,I,440,Core,32,Pasteurized White Milk,2%,Half gal,Plastic,1,3/14/2016,4/1/2016,3/15/2016,3/16/2016
+4243,I,447,Core,14,Pasteurized White Milk,1%,Half gal,Plastic,1,10/24/2016,11/10/2016,10/27/2016,10/27/2016
+4342,I,449,Core,24,Pasteurized White Milk,1%,Half gal,Plastic,1,2/7/2017,2/25/2017,2/9/2017,2/9/2017
+4346,I,449,Extras,23-1,Pasteurized White Milk,Skim,Gal,Plastic,1,2/7/2017,2/25/2017,2/9/2017,2/9/2017
+4009,I,440,Extras,32-2,Pasteurized White Milk,2%,qt,Plastic,1,3/14/2016,4/1/2016,3/15/2016,3/16/2016
+4006,I,440,Core,34,Pasteurized White Milk,1%,Half gal,Plastic,1,3/14/2016,4/1/2016,3/15/2016,3/16/2016
+4007,I,440,Extras,35,Pasteurized Chocolate Milk,1% Chocolate,pt,Plastic,1,3/14/2016,4/9/2016,3/15/2016,3/16/2016
+4345,I,449,Extras,22-2,Pasteurized White Milk,2%,qt,Plastic,1,2/7/2017,2/25/2017,2/9/2017,2/9/2017
+4626,I,456,Extras,32-1,Pasteurized White Milk,2%,Gal,Plastic,1,9/25/2017,10/13/2017,9/27/2017,9/28/2017
+4623,I,456,Core,32,Pasteurized White Milk,2%,Half gal,Plastic,1,9/25/2017,10/13/2017,9/27/2017,9/28/2017
+4003,I,440,Core,31,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,3/14/2016,4/1/2016,3/15/2016,3/16/2016
+3879,I,435,Core,34,Pasteurized White Milk,1%,Half gal,Plastic,1,9/14/2015,10/2/2015,9/15/2015,9/16/2015
+4344,I,449,Extras,22-1,Pasteurized White Milk,2%,Gal,Plastic,1,2/7/2017,2/25/2017,2/9/2017,2/9/2017
+4005,I,440,Core,33,Pasteurized White Milk,Skim,Half gal,Plastic,1,3/14/2016,4/1/2016,3/15/2016,3/16/2016
+3877,I,435,Core,32,Pasteurized White Milk,2%,Half gal,Plastic,1,9/14/2015,10/2/2015,9/15/2015,9/16/2015
+4347,I,449,Extras,23-2,Pasteurized White Milk,Skim,qt,Plastic,1,2/7/2017,2/25/2017,2/9/2017,2/9/2017
+3878,I,435,Core,33,Pasteurized White Milk,Skim,Half gal,Plastic,1,9/14/2015,10/2/2015,9/15/2015,9/16/2015
+4246,I,447,Extras,13-1,Pasteurized White Milk,Skim,Gal,Plastic,1,10/25/2016,11/11/2016,10/27/2016,10/27/2016
+4008,I,440,Extras,32-1,Pasteurized White Milk,2%,Gal,Plastic,1,3/14/2016,4/1/2016,3/15/2016,3/16/2016
+4244,I,447,Extras,1-Dec,Pasteurized White Milk,2%,Gal,Plastic,1,10/25/2016,11/11/2016,10/27/2016,10/27/2016
+4340,I,449,Core,22,Pasteurized White Milk,2%,Half gal,Plastic,1,2/7/2017,2/25/2017,2/9/2017,2/9/2017
+4622,I,456,Core,31,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,9/25/2017,10/13/2017,9/27/2017,9/28/2017
+4245,I,447,Extras,2-Dec,Pasteurized White Milk,2%,qt,Plastic,1,10/25/2016,11/11/2016,10/27/2016,10/27/2016
+4240,I,447,Core,11,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,10/24/2016,11/10/2016,10/27/2016,10/27/2016
+3881,I,435,Extras,32-2,Pasteurized White Milk,2%,qt,Plastic,1,9/14/2015,10/2/2015,9/15/2015,9/16/2015
+4242,I,447,Core,13,Pasteurized White Milk,Skim,Half gal,Plastic,1,10/24/2016,11/10/2016,10/27/2016,10/27/2016
+4247,I,447,Extras,13-2,Pasteurized White Milk,Skim,qt,Plastic,1,10/24/2016,11/10/2016,10/27/2016,10/27/2016
+4339,I,449,Core,21,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,2/7/2017,2/25/2017,2/9/2017,2/9/2017
+4241,I,447,Core,12,Pasteurized White Milk,2%,Half gal,Plastic,1,10/24/2016,11/10/2016,10/27/2016,10/27/2016
+3880,I,435,Extras,32-1,Pasteurized White Milk,2%,Gal,Plastic,1,9/14/2015,10/2/2015,9/15/2015,9/16/2015
+4292,J,448,Extras,13-2,Pasteurized White Milk,Skim,Gal,Plastic,1,1/9/2017,1/26/2017,1/10/2017,1/12/2017
+3980,J,439,Core,23,Pasteurized White Milk,Skim,Half gal,Plastic,1,2/8/2016,2/25/2016,2/9/2016,2/10/2016
+3853,J,434,Core,23,Pasteurized White Milk,Skim,Half gal,Plastic,1,8/3/2015,8/20/2015,8/3/2015,8/5/2015
+3852,J,434,Core,22,Pasteurized White Milk,2%,Half gal,Plastic,1,8/3/2015,8/20/2015,8/3/2015,8/5/2015
+4131,J,443,Core,24,Pasteurized White Milk,1%,Half gal,Plastic,1,7/11/2016,7/28/2016,7/12/2016,7/13/2016
+4286,J,448,Core,13,Pasteurized White Milk,Skim,Half gal,Plastic,1,1/9/2017,1/26/2017,1/10/2017,1/12/2017
+3854,J,434,Core,24,Pasteurized White Milk,1%,Half gal,Plastic,1,8/3/2015,8/20/2015,8/3/2015,8/5/2015
+4511,J,453,Core,14,Pasteurized White Milk,1%,Half gal,Plastic,1,7/10/2017,7/27/2017,7/11/2017,7/13/2017
+4128,J,443,Core,21,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,7/11/2016,7/28/2016,7/12/2016,7/13/2016
+4129,J,443,Core,22,Pasteurized White Milk,2%,Half gal,Plastic,1,7/11/2016,7/28/2016,7/12/2016,7/13/2016
+3981,J,439,Core,24,Pasteurized White Milk,1%,Half gal,Plastic,1,2/8/2016,2/25/2016,2/9/2016,2/10/2016
+4291,J,448,Single Serve,13-1,Pasteurized White Milk,Skim,Half pint,Paper,4,1/9/2017,1/26/2017,1/10/2017,1/12/2017
+4287,J,448,Core,14,Pasteurized White Milk,1%,Half gal,Plastic,1,1/9/2017,1/26/2017,1/10/2017,1/12/2017
+4509,J,453,Core,12,Pasteurized White Milk,2%,Half gal,Plastic,1,7/10/2017,7/27/2017,7/11/2017,7/13/2017
+4285,J,448,Core,12,Pasteurized White Milk,2%,Half gal,Plastic,1,1/9/2017,1/26/2017,1/10/2017,1/12/2017
+4288,J,448,Single Serve,15,Pasteurized Chocolate Milk,1% Chocolate,Half pint,Paper,4,1/7/2017,1/24/2017,1/10/2017,1/12/2017
+4284,J,448,Core,11,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,1/9/2017,1/26/2017,1/10/2017,1/12/2017
+4290,J,448,Extras,2-Dec,Pasteurized White Milk,2%,Gal,Plastic,1,1/9/2017,1/26/2017,1/10/2017,1/12/2017
+4132,J,443,Single Serve,22-1,Pasteurized White Milk,2%,Half pint,Paper,4,7/11/2016,7/28/2016,7/12/2016,7/13/2016
+3978,J,439,Core,21,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,2/8/2016,2/25/2016,2/9/2016,2/10/2016
+4514,J,453,Extras,13-2,Pasteurized White Milk,Skim,Gal,Plastic,1,7/10/2017,7/27/2017,7/11/2017,7/13/2017
+4133,J,443,Extras,22-2,Pasteurized White Milk,2%,Gal,Plastic,1,7/11/2016,7/28/2016,7/12/2016,7/13/2016
+4513,J,453,Single Serve,13-1,Pasteurized White Milk,Skim,Half pint,Paper,4,7/10/2017,7/27/2017,7/11/2017,7/13/2017
+3979,J,439,Core,22,Pasteurized White Milk,2%,Half gal,Plastic,1,2/8/2016,2/25/2016,2/9/2016,2/10/2016
+4510,J,453,Core,13,Pasteurized White Milk,Skim,Half gal,Plastic,1,7/10/2017,7/27/2017,7/11/2017,7/13/2017
+4512,J,453,Extras,1-Dec,Pasteurized White Milk,2%,Gal,Plastic,1,7/10/2017,7/27/2017,7/11/2017,7/13/2017
+4130,J,443,Core,23,Pasteurized White Milk,Skim,Half gal,Plastic,1,7/11/2016,7/28/2016,7/12/2016,7/13/2016
+4134,J,443,Single Serve,23-1,Pasteurized White Milk,Skim,Half pint,Paper,3,7/11/2016,7/28/2016,7/12/2016,7/13/2016
+4135,J,443,Extras,23-2,Pasteurized White Milk,Skim,Gal,Plastic,1,7/11/2016,7/28/2016,7/12/2016,7/13/2016
+4508,J,453,Core,11,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,7/10/2017,7/27/2017,7/11/2017,7/13/2017
+3851,J,434,Core,21,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,8/3/2015,8/20/2015,8/3/2015,8/5/2015
+4289,J,448,Single Serve,1-Dec,Pasteurized White Milk,2%,Half pint,Paper,4,1/9/2017,1/26/2017,1/10/2017,1/12/2017
+4440,K,451,Extras,2-Dec,Pasteurized White Milk,2%,qt,Paper,1,4/10/2017,4/28/2017,4/13/2017,4/13/2017
+4441,K,451,Extras,13-1,Pasteurized White Milk,Skim,qt,Plastic,1,4/9/2017,4/27/2017,4/13/2017,4/13/2017
+3909,K,436,Core,34,Pasteurized White Milk,1%,Half gal,Plastic,1,10/5/2015,10/21/2015,10/6/2015,10/7/2015
+4587,K,455,Extras,24-2,Pasteurized White Milk,1%,qt,Plastic,1,8/31/2017,9/27/2017,9/1/2017,8/31/2017
+4435,K,451,Core,11,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,4/9/2017,5/4/2017,4/13/2017,4/13/2017
+4436,K,451,Core,12,Pasteurized White Milk,2%,Half gal,Plastic,1,4/10/2017,4/29/2017,4/12/2017,4/13/2017
+4439,K,451,Extras,1-Dec,Pasteurized White Milk,2%,qt,Plastic,1,4/9/2017,4/29/2017,4/13/2017,4/13/2017
+3912,K,436,Extras,32-2,Pasteurized White Milk,2%,Gal,Plastic,1,10/5/2015,10/23/2015,10/6/2015,10/7/2015
+3910,K,436,Single Serve,35,Pasteurized Chocolate Milk,1% Chocolate,Half pint,Paper,4,10/5/2015,10/15/2015,10/6/2015,10/7/2015
+4437,K,451,Core,13,Pasteurized White Milk,Skim,Half gal,Plastic,1,4/9/2017,5/4/2017,4/12/2017,4/13/2017
+4584,K,455,Extras,25,Pasteurized Chocolate Milk,1% Chocolate,qt,Plastic,1,8/31/2017,9/21/2017,9/1/2017,8/31/2017
+4583,K,455,Core,24,Pasteurized White Milk,1%,Half gal,Paper,1,8/31/2017,9/18/2017,9/1/2017,8/31/2017
+4054,K,441,Core,34,Pasteurized White Milk,1%,Half gal,Plastic,1,4/18/2016,5/6/2016,4/19/2016,4/20/2016
+3907,K,436,Core,32,Pasteurized White Milk,2%,Half gal,Plastic,1,10/5/2015,10/21/2015,10/6/2015,10/7/2015
+3911,K,436,Extras,32-1,Pasteurized White Milk,2%,qt,Plastic,1,10/5/2015,10/25/2015,10/6/2015,10/7/2015
+4585,K,455,Extras,23-1,Pasteurized White Milk,Skim,qt,Paper,1,8/31/2017,9/27/2017,9/1/2017,8/31/2017
+3913,K,436,Extras,32-3,Pasteurized White Milk,2%,Half gal,Paper,1,10/5/2015,10/23/2015,10/6/2015,10/7/2015
+4051,K,441,Core,31,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,4/18/2016,5/6/2016,4/19/2016,4/20/2016
+3914,K,436,Extras,32-4,Pasteurized White Milk,2%,qt,Paper,1,10/5/2015,10/23/2015,10/6/2015,10/7/2015
+4055,K,441,Extras,32-1,Pasteurized White Milk,2%,qt,Plastic,1,4/18/2016,5/8/2016,4/19/2016,4/20/2016
+4586,K,455,Extras,24-1,Pasteurized White Milk,1%,Half gal,Plastic,1,8/31/2017,9/27/2017,9/1/2017,8/31/2017
+4052,K,441,Core,32,Pasteurized White Milk,2%,Half gal,Plastic,1,4/17/2016,5/4/2016,4/19/2016,4/20/2016
+3906,K,436,Core,31,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,10/5/2015,10/22/2015,10/6/2015,10/7/2015
+4150,K,444,Extras,2-Dec,Pasteurized White Milk,2%,qt,Paper,1,8/8/2016,8/26/2016,8/10/2016,8/10/2016
+4580,K,455,Core,21,Pasteurized White Milk,Homogenized,Half gal,Paper,1,8/31/2017,9/18/2017,9/1/2017,8/31/2017
+4582,K,455,Core,23,Pasteurized White Milk,Skim,Half gal,Paper,1,8/31/2017,9/18/2017,9/1/2017,8/31/2017
+4053,K,441,Core,33,Pasteurized White Milk,Skim,Half gal,Plastic,1,4/18/2016,5/7/2016,4/19/2016,4/20/2016
+3908,K,436,Core,33,Pasteurized White Milk,Skim,Half gal,Plastic,1,10/5/2015,10/23/2015,10/6/2015,10/7/2015
+4438,K,451,Core,14,Pasteurized White Milk,1%,Half gal,Plastic,1,4/9/2017,5/4/2017,4/13/2017,4/13/2017
+4148,K,444,Core,14,Pasteurized White Milk,1%,Half gal,Plastic,1,8/8/2016,8/28/2016,8/10/2016,8/10/2016
+4581,K,455,Core,22,Pasteurized White Milk,2%,Half gal,Paper,1,8/31/2017,9/18/2017,9/1/2017,8/31/2017
+4442,K,451,Extras,13-2,Pasteurized White Milk,Skim,Half gal,Plastic,1,4/10/2017,4/27/2017,4/12/2017,4/13/2017
+4146,K,444,Core,11,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,8/8/2016,9/4/2016,8/10/2016,8/10/2016
+4147,K,444,Core,12,Pasteurized White Milk,2%,Half gal,Plastic,1,8/8/2016,8/28/2016,8/10/2016,8/10/2016
+4149,K,444,Extras,1-Dec,Pasteurized White Milk,2%,Half gal,Paper,1,8/8/2016,8/26/2016,8/10/2016,8/10/2016
+4058,K,441,Extras,32-4,Pasteurized White Milk,2%,qt,Paper,1,4/18/2016,5/6/2016,4/19/2016,4/20/2016
+4056,K,441,Extras,32-2,Pasteurized White Milk,2%,Gal,Plastic,1,4/18/2016,5/6/2016,4/19/2016,4/20/2016
+4057,K,441,Extras,32-3,Pasteurized White Milk,2%,Half gal,Paper,1,4/18/2016,5/6/2016,4/19/2016,4/20/2016
+4644,L,457,Extras,2-Dec,Pasteurized White Milk,2%,qt,Paper,1,10/23/2017,11/6/2017,10/25/2017,10/26/2017
+4251,L,447,Core,24,Pasteurized White Milk,1%,Half gal,Paper,1,10/24/2016,11/7/2016,10/26/2016,10/26/2016
+4638,L,457,Core,13,Pasteurized White Milk,Skim,Half gal,Paper,1,10/23/2017,11/6/2017,10/25/2017,10/26/2017
+3996,L,440,Core,14,Pasteurized White Milk,1%,Half gal,Paper,1,3/15/2016,3/29/2016,3/15/2016,3/16/2016
+3994,L,440,Core,12,Pasteurized White Milk,2%,Half gal,Paper,1,3/15/2016,3/29/2016,3/15/2016,3/16/2016
+4499,L,452,Core,52,Pasteurized White Milk,2%,Half gal,Paper,1,5/15/2017,5/29/2017,5/19/2017,5/19/2017
+4501,L,452,Core,54,Pasteurized White Milk,1%,Half gal,Paper,1,5/15/2017,5/29/2017,5/19/2017,5/19/2017
+3995,L,440,Core,13,Pasteurized White Milk,Skim,Half gal,Paper,1,3/15/2016,3/29/2016,3/15/2016,3/16/2016
+3993,L,440,Core,11,Pasteurized White Milk,Homogenized,Half gal,Paper,1,3/15/2016,3/29/2016,3/15/2016,3/16/2016
+4506,L,452,Single Serve,54-1,Pasteurized White Milk,1%,Half pint,Paper,4,5/15/2017,5/29/2017,5/19/2017,5/19/2017
+4643,L,457,Extras,1-Dec,Pasteurized White Milk,2%,Half gal,Paper,1,10/23/2017,11/6/2017,10/25/2017,10/26/2017
+4249,L,447,Core,21,Pasteurized White Milk,Homogenized,Half gal,Paper,1,10/24/2016,11/7/2016,10/26/2016,10/26/2016
+4500,L,452,Core,53,Pasteurized White Milk,Skim,Half gal,Paper,1,5/15/2017,5/29/2017,5/19/2017,5/19/2017
+4637,L,457,Core,12,Pasteurized White Milk,2%,Half gal,Paper,1,10/23/2017,11/6/2017,10/25/2017,10/26/2017
+3869,L,435,Core,14,Pasteurized White Milk,1%,Half gal,Paper,1,9/15/2015,9/29/2015,9/15/2015,9/16/2015
+4505,L,452,Extras,52-3,Pasteurized White Milk,2%,Gal,Plastic,1,5/15/2017,5/29/2017,5/19/2017,5/19/2017
+4642,L,457,Extras,2-Nov,Pasteurized White Milk,Homogenized,qt,Plastic,1,10/23/2017,11/6/2017,10/25/2017,10/26/2017
+4641,L,457,Extras,1-Nov,Pasteurized White Milk,Homogenized,pt,Plastic,1,10/23/2017,11/6/2017,10/25/2017,10/26/2017
+4252,L,447,Extras,21-1,Pasteurized White Milk,Homogenized,Gal,Plastic,1,10/24/2016,11/7/2016,10/26/2016,10/26/2016
+4640,L,457,Single Serve,15,Pasteurized Chocolate Milk,Chocolate,Half pint,Paper,4,10/24/2017,11/6/2017,10/25/2017,10/26/2017
+4645,L,457,Single Serve,13-1,Pasteurized White Milk,Skim,Half pint,Paper,4,10/23/2017,11/6/2017,10/25/2017,10/26/2017
+4504,L,452,Single Serve,52-1,Pasteurized White Milk,2%,Half pint,Paper,3,5/15/2017,5/29/2017,5/19/2017,5/19/2017
+4253,L,447,Extras,21-2,Pasteurized White Milk,Homogenized,qt,Paper,1,10/24/2016,11/7/2016,10/26/2016,10/26/2016
+4498,L,452,Core,51,Pasteurized White Milk,Homogenized,Half gal,Paper,1,5/15/2017,5/29/2017,5/19/2017,5/19/2017
+3868,L,435,Core,13,Pasteurized White Milk,Skim,Half gal,Paper,1,9/15/2015,9/29/2015,9/15/2015,9/16/2015
+4502,L,452,Extras,51-1,Pasteurized White Milk,Homogenized,Gal,Plastic,1,5/15/2017,5/29/2017,5/19/2017,5/19/2017
+4503,L,452,Extras,51-3,Pasteurized White Milk,Homogenized,pt,Plastic,1,5/15/2017,5/29/2017,5/19/2017,5/19/2017
+4639,L,457,Core,14,Pasteurized White Milk,1%,Half gal,Paper,1,10/23/2017,11/6/2017,10/25/2017,10/26/2017
+4254,L,447,Extras,21-3,Pasteurized White Milk,Homogenized,pt,Plastic,1,10/24/2016,11/7/2016,10/26/2016,10/26/2016
+4255,L,447,Extras,22-1,Pasteurized White Milk,2%,Gal,Plastic,1,10/24/2016,11/7/2016,10/26/2016,10/26/2016
+3866,L,435,Core,11,Pasteurized White Milk,Homogenized,Half gal,Paper,1,9/15/2015,9/29/2015,9/15/2015,9/16/2015
+4250,L,447,Core,22,Pasteurized White Milk,2%,Half gal,Paper,1,10/24/2016,11/7/2016,10/26/2016,10/26/2016
+4256,L,447,Single Serve,23-1,Pasteurized White Milk,Skim,Half pint,Paper,4,10/24/2016,11/7/2016,10/26/2016,10/26/2016
+4636,L,457,Core,11,Pasteurized White Milk,Homogenized,Half gal,Paper,1,10/23/2017,11/6/2017,10/25/2017,10/26/2017
+3867,L,435,Core,12,Pasteurized White Milk,2%,Half gal,Paper,1,9/15/2015,9/29/2015,9/15/2015,9/16/2015
+4201,O,445,Extras,51-1,Pasteurized White Milk,Homogenized,qt,Paper,1,8/29/2016,9/14/2016,8/30/2016,8/31/2016
+3905,O,436,Extras,23-1,Pasteurized White Milk,Skim,qt,Paper,1,10/5/2015,10/20/2015,10/6/2015,10/7/2015
+3899,O,436,Core,21,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,10/5/2015,10/20/2015,10/6/2015,10/7/2015
+3904,O,436,Single Serve,22-1,Pasteurized White Milk,2%,Half pint,Paper,4,10/5/2015,10/20/2015,10/6/2015,10/7/2015
+4196,O,445,Core,51,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,8/29/2016,9/16/2016,8/30/2016,8/31/2016
+4667,O,457,Single Serve,42-1,Pasteurized White Milk,2%,Half pint,Paper,4,10/23/2017,11/8/2017,10/25/2017,10/26/2017
+4666,O,457,Single Serve,45,Pasteurized Chocolate Milk,1% Chocolate,Half pint,Paper,3,10/23/2017,11/8/2017,10/25/2017,10/26/2017
+4204,O,445,Extras,53-2,Pasteurized White Milk,Skim,qt,Paper,1,8/29/2016,9/13/2016,8/30/2016,8/31/2016
+4197,O,445,Core,52,Pasteurized White Milk,2%,Half gal,Plastic,1,8/30/2016,9/17/2016,8/30/2016,8/31/2016
+3901,O,436,Core,23,Pasteurized White Milk,Skim,Half gal,Plastic,1,10/6/2015,10/21/2015,10/6/2015,10/7/2015
+4665,O,457,Core,44,Pasteurized White Milk,1%,Half gal,Plastic,1,10/23/2017,11/10/2017,10/25/2017,10/26/2017
+4046,O,441,Core,23,Pasteurized White Milk,Skim,Half gal,Plastic,1,4/18/2016,5/6/2016,4/19/2016,4/20/2016
+4045,O,441,Core,22,Pasteurized White Milk,2%,Half gal,Plastic,1,4/18/2016,5/6/2016,4/19/2016,4/20/2016
+4664,O,457,Core,43,Pasteurized White Milk,Skim,Half gal,Plastic,1,10/21/2017,11/7/2017,10/25/2017,10/26/2017
+4048,O,441,Single Serve,25,Pasteurized Chocolate Milk,Skim Chocolate,Half pint,Paper,4,4/18/2016,5/3/2016,4/19/2016,4/20/2016
+3900,O,436,Core,22,Pasteurized White Milk,2%,Half gal,Plastic,1,10/6/2015,10/21/2015,10/6/2015,10/7/2015
+4047,O,441,Core,24,Pasteurized White Milk,1%,Half gal,Plastic,1,4/18/2016,5/6/2016,4/19/2016,4/20/2016
+4662,O,457,Core,41,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,10/23/2017,11/10/2017,10/25/2017,10/26/2017
+4668,O,457,Single Serve,43-1,Pasteurized White Milk,Skim,Half pint,Paper,4,10/23/2017,11/8/2017,10/25/2017,10/26/2017
+4049,O,441,Single Serve,22-1,Pasteurized White Milk,2%,Half pint,Paper,4,4/19/2016,5/4/2016,4/19/2016,4/20/2016
+4198,O,445,Core,53,Pasteurized White Milk,Skim,Half gal,Plastic,1,8/25/2016,9/13/2016,8/30/2016,8/31/2016
+4044,O,441,Core,21,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,4/18/2016,5/6/2016,4/19/2016,4/20/2016
+4663,O,457,Core,42,Pasteurized White Milk,2%,Half gal,Plastic,1,10/23/2017,11/10/2017,10/25/2017,10/26/2017
+3903,O,436,Single Serve,25,Pasteurized Chocolate Milk,Skim Chocolate,Half pint,Paper,4,10/5/2015,10/20/2015,10/6/2015,10/7/2015
+4200,O,445,Single Serve,55,Pasteurized Chocolate Milk,Skim Chocolate,Half pint,Paper,1,8/29/2016,9/13/2016,8/30/2016,8/31/2016
+3902,O,436,Core,24,Pasteurized White Milk,1%,Half gal,Plastic,1,10/5/2015,10/20/2015,10/6/2015,10/7/2015
+4202,O,445,Single Serve,52-1,Pasteurized White Milk,2%,Half pint,Paper,4,8/30/2016,9/14/2016,8/30/2016,8/31/2016
+4050,O,441,Extras,21-1,Pasteurized White Milk,Homogenized,qt,Paper,1,4/18/2016,5/3/2016,4/19/2016,4/20/2016
+4199,O,445,Core,54,Pasteurized White Milk,1%,Half gal,Plastic,1,8/29/2016,9/16/2016,8/30/2016,8/31/2016
+4203,O,445,Single Serve,53-1,Pasteurized White Milk,Skim,Half pint,Paper,4,8/29/2016,9/13/2016,8/30/2016,8/31/2016
+3948,P,437,Core,61,Pasteurized White Milk,Homogenized,Half gal,Paper,1,10/28/2015,11/11/2015,10/28/2015,10/28/2015
+3951,P,437,Extras,65,Pasteurized Chocolate Milk,Chocolate,Half gal,Plastic,1,10/28/2015,11/11/2015,10/28/2015,10/28/2015
+4116,P,442,Core,61,Pasteurized White Milk,Homogenized,Half gal,Paper,1,5/25/2016,6/8/2016,5/24/2016,5/25/2016
+4117,P,442,Core,62,Pasteurized White Milk,2%,Half gal,Paper,1,5/25/2016,6/8/2016,5/24/2016,5/25/2016
+4164,P,444,Extras,45,Pasteurized Chocolate Milk,Chocolate,Half gal,Plastic,1,8/10/2016,8/24/2016,8/10/2016,8/11/2016
+4118,P,442,Core,63,Pasteurized White Milk,Skim,Half gal,Paper,1,5/25/2016,6/8/2016,5/24/2016,5/25/2016
+4163,P,444,Core,43,Pasteurized White Milk,Skim,Half gal,Paper,1,8/10/2016,8/24/2016,8/10/2016,8/11/2016
+3949,P,437,Core,62,Pasteurized White Milk,2%,Half gal,Paper,1,10/28/2015,11/11/2015,10/28/2015,10/28/2015
+4356,P,449,Extras,55,Pasteurized Chocolate Milk,Chocolate,Half gal,Plastic,1,2/8/2017,2/22/2017,2/8/2017,2/9/2017
+4353,P,449,Core,51,Pasteurized White Milk,Homogenized,Half gal,Paper,1,2/8/2017,2/22/2017,2/8/2017,2/9/2017
+4354,P,449,Core,52,Pasteurized White Milk,2%,Half gal,Paper,1,2/8/2017,2/22/2017,2/8/2017,2/9/2017
+4355,P,449,Core,53,Pasteurized White Milk,Skim,Half gal,Paper,1,2/8/2017,2/22/2017,2/8/2017,2/9/2017
+4524,P,453,Core,52,Pasteurized White Milk,2%,Half gal,Paper,1,7/12/2017,7/26/2017,7/13/2017,7/13/2017
+4525,P,453,Core,53,Pasteurized White Milk,Skim,Half gal,Paper,1,7/12/2017,7/26/2017,7/13/2017,7/13/2017
+4526,P,453,Extras,55,Pasteurized Chocolate Milk,Chocolate,Half gal,Plastic,1,7/12/2017,7/26/2017,7/13/2017,7/13/2017
+3950,P,437,Core,63,Pasteurized White Milk,Skim,Half gal,Paper,1,10/28/2015,11/11/2015,10/28/2015,10/28/2015
+4162,P,444,Core,42,Pasteurized White Milk,2%,Half gal,Paper,1,8/10/2016,8/24/2016,8/10/2016,8/11/2016
+4523,P,453,Core,51,Pasteurized White Milk,Homogenized,Half gal,Paper,1,7/12/2017,7/26/2017,7/13/2017,7/13/2017
+4119,P,442,Extras,65,Pasteurized Chocolate Milk,Chocolate,Half gal,Plastic,1,5/25/2016,6/8/2016,5/24/2016,5/25/2016
+4161,P,444,Core,41,Pasteurized White Milk,Homogenized,Half gal,Paper,1,8/10/2016,8/24/2016,8/10/2016,8/11/2016
+4649,R,457,Core,23,Pasteurized White Milk,Skim,Half gal,Plastic,1,10/23/2017,11/12/2017,10/25/2017,10/26/2017
+3939,R,437,Core,23,Pasteurized White Milk,Skim,Half gal,Plastic,1,10/26/2015,11/15/2015,10/27/2015,10/28/2015
+3937,R,437,Core,21,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,10/26/2015,11/15/2015,10/27/2015,10/28/2015
+3938,R,437,Core,22,Pasteurized White Milk,2%,Half gal,Plastic,1,10/26/2015,11/15/2015,10/27/2015,10/28/2015
+4463,R,452,Single Serve,15,Pasteurized Chocolate Milk,Skim Chocolate,Half pint,Paper,4,5/15/2017,6/2/2017,5/17/2017,5/18/2017
+4654,R,457,Single Serve,23-1,Pasteurized White Milk,Skim,Half pint,Paper,4,10/23/2017,11/10/2017,10/25/2017,10/26/2017
+4655,R,457,Extras,23-2,Pasteurized White Milk,Skim,Gal,Plastic,1,10/23/2017,11/10/2017,10/25/2017,10/26/2017
+4657,R,457,Extras,23-4,Pasteurized White Milk,Skim,Half gal,Glass,1,10/23/2017,11/10/2017,10/25/2017,10/26/2017
+4650,R,457,Core,24,Pasteurized White Milk,1%,Half gal,Plastic,1,10/23/2017,11/12/2017,10/25/2017,10/26/2017
+4473,R,452,Extras,14-3,Pasteurized White Milk,1%,Gal,Plastic,1,5/15/2017,6/4/2017,5/17/2017,5/18/2017
+4656,R,457,Extras,23-3,Pasteurized White Milk,Skim,Half gal,Paper,1,10/23/2017,11/10/2017,10/25/2017,10/26/2017
+4166,R,445,Core,11,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,8/29/2016,9/18/2016,8/31/2016,9/2/2016
+4167,R,445,Core,12,Pasteurized White Milk,2%,Half gal,Plastic,1,8/29/2016,9/18/2016,8/31/2016,8/31/2016
+4465,R,452,Extras,2-Dec,Pasteurized White Milk,2%,Gal,Plastic,1,5/15/2017,6/4/2017,5/17/2017,5/18/2017
+4467,R,452,Extras,4-Dec,Pasteurized White Milk,2%,Gal,Plastic,1,5/15/2017,6/4/2017,5/17/2017,5/18/2017
+4468,R,452,Extras,5-Dec,Pasteurized White Milk,2%,Half gal,Glass,1,5/15/2017,6/2/2017,5/17/2017,5/18/2017
+4461,R,452,Core,13,Pasteurized White Milk,Skim,Half gal,Plastic,1,5/15/2017,6/4/2017,5/17/2017,5/18/2017
+4466,R,452,Extras,3-Dec,Pasteurized White Milk,2%,Gal,Plastic,1,5/15/2017,6/4/2017,5/17/2017,5/18/2017
+4471,R,452,Single Serve,14-1,Pasteurized White Milk,1%,Half pint,Paper,4,5/15/2017,6/2/2017,5/17/2017,5/18/2017
+4472,R,452,Extras,14-2,Pasteurized White Milk,1%,Gal,Plastic,1,5/15/2017,6/4/2017,5/17/2017,5/18/2017
+4169,R,445,Core,14,Pasteurized White Milk,1%,Half gal,Plastic,1,8/29/2016,9/18/2016,8/31/2016,9/2/2016
+4647,R,457,Core,21,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,10/23/2017,11/12/2017,10/25/2017,10/26/2017
+4648,R,457,Core,22,Pasteurized White Milk,2%,Half gal,Plastic,1,10/23/2017,11/12/2017,10/25/2017,10/26/2017
+4651,R,457,Single Serve,22-1,Pasteurized White Milk,2%,Half pint,Paper,4,10/23/2017,11/10/2017,10/25/2017,10/26/2017
+4652,R,457,Extras,22-2,Pasteurized White Milk,2%,Gal,Plastic,1,10/23/2017,11/12/2017,10/25/2017,10/26/2017
+4653,R,457,Extras,22-3,Pasteurized White Milk,2%,Half gal,Glass,1,10/23/2017,11/10/2017,10/25/2017,10/26/2017
+4171,R,445,Single Serve,1-Dec,Pasteurized White Milk,2%,Half pint,Paper,4,8/29/2016,9/16/2016,8/31/2016,8/31/2016
+4172,R,445,Extras,2-Dec,Pasteurized White Milk,2%,Gal,Plastic,1,8/29/2016,9/18/2016,8/31/2016,8/31/2016
+4173,R,445,Extras,3-Dec,Pasteurized White Milk,2%,Gal,Plastic,1,8/30/2016,9/19/2016,8/31/2016,8/31/2016
+4174,R,445,Extras,4-Dec,Pasteurized White Milk,2%,Gal,Plastic,1,8/29/2016,9/18/2016,8/31/2016,8/31/2016
+4658,R,457,Single Serve,24-1,Pasteurized White Milk,1%,Half pint,Paper,4,10/23/2017,11/10/2017,10/25/2017,10/26/2017
+4168,R,445,Core,13,Pasteurized White Milk,Skim,Half gal,Plastic,1,8/29/2016,9/18/2016,8/31/2016,9/2/2016
+4176,R,445,Single Serve,13-1,Pasteurized White Milk,Skim,Half pint,Paper,4,8/29/2016,9/16/2016,8/31/2016,8/31/2016
+4462,R,452,Core,14,Pasteurized White Milk,1%,Half gal,Plastic,1,5/15/2017,6/4/2017,5/17/2017,5/18/2017
+4170,R,445,Single Serve,15,Pasteurized Chocolate Milk,Skim Chocolate,Half pint,Paper,4,8/29/2016,9/16/2016,8/31/2016,8/31/2016
+4459,R,452,Core,11,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,5/15/2017,6/4/2017,5/17/2017,5/18/2017
+4102,R,442,Core,22,Pasteurized White Milk,2%,Half gal,Plastic,1,5/24/2016,6/12/2016,5/24/2016,5/25/2016
+4464,R,452,Single Serve,1-Dec,Pasteurized White Milk,2%,Half pint,Paper,4,5/14/2017,6/1/2017,5/17/2017,5/18/2017
+4101,R,442,Core,21,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,5/24/2016,6/12/2016,5/24/2016,5/25/2016
+4470,R,452,Extras,13-2,Pasteurized White Milk,Skim,Half gal,Glass,1,5/15/2017,6/2/2017,5/17/2017,5/18/2017
+4103,R,442,Core,23,Pasteurized White Milk,Skim,Half gal,Plastic,1,5/24/2016,6/12/2016,5/24/2016,5/25/2016
+4175,R,445,Extras,5-Dec,Pasteurized White Milk,2%,Half gal,Glass,1,8/29/2016,9/16/2016,8/31/2016,8/31/2016
+4469,R,452,Single Serve,13-1,Pasteurized White Milk,Skim,Half pint,Paper,4,5/15/2017,6/2/2017,5/17/2017,5/18/2017
+3940,R,437,Core,24,Pasteurized White Milk,1%,Half gal,Plastic,1,10/26/2015,11/15/2015,10/27/2015,10/28/2015
+4460,R,452,Core,12,Pasteurized White Milk,2%,Half gal,Plastic,1,5/15/2017,6/4/2017,5/17/2017,5/18/2017
+4104,R,442,Core,24,Pasteurized White Milk,1%,Half gal,Plastic,1,5/24/2016,6/12/2016,5/24/2016,5/25/2016
+4560,S,454,Extras,42-1,Pasteurized White Milk,2%,Gal,Plastic,1,8/7/2017,8/24/2017,8/9/2017,8/10/2017
+3859,S,434,Core,33,Pasteurized White Milk,Skim,Half gal,Plastic,1,8/3/2015,8/20/2015,8/4/2015,8/5/2015
+4219,S,446,Core,24,Pasteurized White Milk,1%,qt,Plastic,2,9/26/2016,10/13/2016,9/28/2016,9/28/2016
+4226,S,446,Extras,23-3,Pasteurized White Milk,Skim,pt,Plastic,2,9/26/2016,10/15/2016,9/28/2016,9/28/2016
+3858,S,434,Core,32,Pasteurized White Milk,2%,Half gal,Plastic,1,8/3/2015,8/20/2015,8/4/2015,8/5/2015
+4218,S,446,Core,23,Pasteurized White Milk,Skim,qt,Plastic,2,9/26/2016,10/13/2016,9/28/2016,9/28/2016
+4220,S,446,Single Serve,25,Pasteurized Chocolate Milk,Skim Chocolate,Half pint,Paper,4,9/27/2016,10/14/2016,9/28/2016,9/28/2016
+4557,S,454,Core,42,Pasteurized White Milk,2%,qt,Plastic,2,8/7/2017,8/24/2017,8/9/2017,8/10/2017
+3983,S,439,Core,31,Pasteurized White Milk,Homogenized,qt,Plastic,2,2/8/2016,2/25/2016,2/9/2016,2/10/2016
+4561,S,454,Extras,42-2,Pasteurized White Milk,2%,pt,Plastic,2,8/7/2017,8/26/2017,8/9/2017,8/10/2017
+4224,S,446,Single Serve,23-1,Pasteurized White Milk,Skim,Half pint,Paper,4,9/26/2016,10/13/2016,9/28/2016,9/28/2016
+4556,S,454,Core,41,Pasteurized White Milk,Homogenized,qt,Plastic,2,8/7/2017,8/24/2017,8/9/2017,8/10/2017
+3857,S,434,Core,31,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,8/3/2015,8/20/2015,8/4/2015,8/5/2015
+4223,S,446,Extras,22-3,Pasteurized White Milk,2%,pt,Plastic,2,9/26/2016,10/15/2016,9/28/2016,9/28/2016
+4562,S,454,Single Serve,42-3,Pasteurized White Milk,2%,Half pint,Paper,4,8/7/2017,8/24/2017,8/9/2017,8/10/2017
+4302,S,448,Single Serve,23-1,Pasteurized White Milk,Skim,Half pint,Paper,4,1/9/2017,1/26/2017,1/11/2017,1/12/2017
+3860,S,434,Core,34,Pasteurized White Milk,1%,Half gal,Plastic,1,8/3/2015,8/20/2015,8/4/2015,8/5/2015
+4222,S,446,Extras,22-2,Pasteurized White Milk,2%,Gal,Plastic,1,9/26/2016,10/13/2016,9/28/2016,9/28/2016
+4297,S,448,Core,24,Pasteurized White Milk,1%,qt,Plastic,2,1/9/2017,1/26/2017,1/11/2017,1/12/2017
+3984,S,439,Core,32,Pasteurized White Milk,2%,qt,Plastic,2,2/8/2016,2/25/2016,2/9/2016,2/10/2016
+4304,S,448,Extras,23-3,Pasteurized White Milk,Skim,pt,Plastic,2,1/9/2017,1/28/2017,1/11/2017,1/12/2017
+4221,S,446,Single Serve,22-1,Pasteurized White Milk,2%,Half pint,Paper,4,9/26/2016,10/13/2016,9/28/2016,9/28/2016
+4225,S,446,Extras,23-2,Pasteurized White Milk,Skim,Gal,Plastic,1,9/26/2016,10/13/2016,9/28/2016,9/28/2016
+4558,S,454,Core,43,Pasteurized White Milk,Skim,qt,Plastic,2,8/7/2017,8/24/2017,8/9/2017,8/10/2017
+4294,S,448,Core,21,Pasteurized White Milk,Homogenized,qt,Plastic,2,1/9/2017,1/26/2017,1/11/2017,1/12/2017
+4295,S,448,Core,22,Pasteurized White Milk,2%,qt,Plastic,2,1/9/2017,1/26/2017,1/11/2017,1/12/2017
+4301,S,448,Extras,22-3,Pasteurized White Milk,2%,pt,Plastic,2,1/9/2017,1/28/2017,1/11/2017,1/12/2017
+4298,S,448,Single Serve,25,Pasteurized Chocolate Milk,Skim Chocolate,Half pint,Paper,4,1/9/2017,1/26/2017,1/11/2017,1/12/2017
+4303,S,448,Extras,23-2,Pasteurized White Milk,Skim,Gal,Plastic,1,1/9/2017,1/26/2017,1/11/2017,1/12/2017
+4217,S,446,Core,22,Pasteurized White Milk,2%,qt,Plastic,2,9/26/2016,10/13/2016,9/28/2016,9/28/2016
+4296,S,448,Core,23,Pasteurized White Milk,Skim,qt,Plastic,2,1/9/2017,1/26/2017,1/11/2017,1/12/2017
+4563,S,454,Extras,43-1,Pasteurized White Milk,Skim,Gal,Plastic,1,8/7/2017,8/24/2017,8/9/2017,8/10/2017
+4216,S,446,Core,21,Pasteurized White Milk,Homogenized,qt,Plastic,2,9/26/2016,10/13/2016,9/28/2016,9/28/2016
+3985,S,439,Core,33,Pasteurized White Milk,Skim,qt,Plastic,2,2/8/2016,2/25/2016,2/9/2016,2/10/2016
+4299,S,448,Single Serve,22-1,Pasteurized White Milk,2%,Half pint,Paper,4,1/9/2017,1/26/2017,1/11/2017,1/12/2017
+4300,S,448,Extras,22-2,Pasteurized White Milk,2%,Gal,Plastic,1,1/9/2017,1/26/2017,1/11/2017,1/12/2017
+4559,S,454,Core,44,Pasteurized White Milk,1%,qt,Plastic,2,8/7/2017,8/24/2017,8/9/2017,8/10/2017
+3986,S,439,Core,34,Pasteurized White Milk,1%,qt,Plastic,2,2/8/2016,2/25/2016,2/9/2016,2/10/2016
+4564,S,454,Extras,43-2,Pasteurized White Milk,Skim,pt,Plastic,2,8/7/2017,8/26/2017,8/9/2017,8/10/2017
+4328,U,448,Extras,55,Pasteurized Chocolate Milk,Chocolate,Half gal,Plastic,1,1/7/2017,1/25/2017,1/11/2017,1/12/2017
+4327,U,448,Core,53,Pasteurized White Milk,Skim,Half gal,Plastic,1,1/7/2017,1/25/2017,1/11/2017,1/12/2017
+4661,U,457,Core,33,Pasteurized White Milk,Skim,Half gal,Plastic,1,10/21/2017,11/8/2017,10/25/2017,10/26/2017
+4239,U,446,Extras,45,Pasteurized Chocolate Milk,Chocolate,Half gal,Plastic,1,9/24/2016,10/12/2016,9/26/2016,9/28/2016
+4237,U,446,Core,42,Pasteurized White Milk,2%,Half gal,Plastic,1,9/24/2016,10/12/2016,9/26/2016,9/28/2016
+3849,U,434,Extras,15,Pasteurized Chocolate Milk,Chocolate,qt,Glass,1,8/1/2015,8/19/2015,8/3/2015,8/5/2015
+4236,U,446,Core,41,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,9/24/2016,10/12/2016,9/26/2016,9/28/2016
+3977,U,439,Extras,15,Pasteurized Chocolate Milk,Chocolate,qt,Plastic,1,2/6/2016,2/24/2016,2/8/2016,2/10/2016
+3850,U,434,Extras,1-Dec,Pasteurized White Milk,2%,qt,Glass,1,8/1/2015,8/19/2015,8/3/2015,8/5/2015
+3975,U,439,Core,12,Pasteurized White Milk,2%,Half gal,Plastic,1,2/6/2016,2/24/2016,2/8/2016,2/10/2016
+3974,U,439,Core,11,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,2/6/2016,2/24/2016,2/8/2016,2/10/2016
+4238,U,446,Core,43,Pasteurized White Milk,Skim,Half gal,Plastic,1,9/24/2016,10/12/2016,9/26/2016,9/28/2016
+3847,U,434,Core,12,Pasteurized White Milk,2%,Half gal,Plastic,1,8/1/2015,8/19/2015,8/3/2015,8/5/2015
+4660,U,457,Core,32,Pasteurized White Milk,2%,Half gal,Plastic,1,10/21/2017,11/8/2017,10/25/2017,10/26/2017
+4325,U,448,Core,51,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,1/7/2017,1/25/2017,1/11/2017,1/12/2017
+3848,U,434,Core,13,Pasteurized White Milk,Skim,Half gal,Plastic,1,8/1/2015,8/19/2015,8/3/2015,8/5/2015
+3976,U,439,Core,13,Pasteurized White Milk,Skim,Half gal,Plastic,1,2/6/2016,2/24/2016,2/8/2016,2/10/2016
+4326,U,448,Core,52,Pasteurized White Milk,2%,Half gal,Plastic,1,1/7/2017,1/25/2017,1/11/2017,1/12/2017
+3846,U,434,Core,11,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,8/1/2015,8/19/2015,8/3/2015,8/5/2015
+4659,U,457,Core,31,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,10/21/2017,11/8/2017,10/25/2017,10/26/2017
+4632,V,456,Core,52,Pasteurized White Milk,2%,qt,Glass,2,9/28/2017,NoCodeDate,9/27/2017,9/28/2017
+3862,V,434,Core,41,Pasteurized White Milk,Homogenized,qt,Glass,2,8/4/2015,NoCodeDate,8/4/2015,8/5/2015
+4635,V,456,Extras,53-1,Pasteurized White Milk,Skim,qt,Glass,1,9/28/2017,NoCodeDate,9/27/2017,9/28/2017
+4276,V,447,Extras,55,Pasteurized Chocolate Milk,Chocolate,qt,Glass,1,11/1/2016,NoCodeDate,11/1/2016,11/2/2016
+4275,V,447,Core,53,Pasteurized White Milk,Skim,qt,Glass,2,11/1/2016,NoCodeDate,11/1/2016,11/2/2016
+4496,V,452,Extras,45,Pasteurized Chocolate Milk,Chocolate,qt,Glass,1,5/15/2017,NoCodeDate,5/17/2017,5/18/2017
+3863,V,434,Core,42,Pasteurized White Milk,2%,qt,Glass,2,8/4/2015,NoCodeDate,8/4/2015,8/5/2015
+4273,V,447,Core,51,Pasteurized White Milk,Homogenized,qt,Glass,2,11/1/2016,NoCodeDate,11/1/2016,11/2/2016
+3991,V,439,Extras,45,Pasteurized Chocolate Milk,Chocolate,qt,Glass,1,2/9/2016,NoCodeDate,2/9/2016,2/10/2016
+4631,V,456,Core,51,Pasteurized White Milk,Homogenized,qt,Glass,2,9/28/2017,NoCodeDate,9/27/2017,9/28/2017
+3990,V,439,Core,43,Pasteurized White Milk,Skim,qt,Glass,2,2/9/2016,NoCodeDate,2/9/2016,2/10/2016
+3988,V,439,Core,41,Pasteurized White Milk,Homogenized,qt,Glass,2,2/9/2016,NoCodeDate,2/9/2016,2/10/2016
+4497,V,452,Extras,41-1,Pasteurized White Milk,Homogenized,qt,Glass,1,5/15/2017,NoCodeDate,5/17/2017,5/18/2017
+4634,V,456,Extras,55,Pasteurized Chocolate Milk,Chocolate,qt,Glass,1,9/28/2017,NoCodeDate,9/27/2017,9/28/2017
+4274,V,447,Core,52,Pasteurized White Milk,2%,qt,Glass,2,11/1/2016,NoCodeDate,11/1/2016,11/2/2016
+4495,V,452,Core,43,Pasteurized White Milk,Skim,qt,Glass,2,5/15/2017,NoCodeDate,5/17/2017,5/18/2017
+3989,V,439,Core,42,Pasteurized White Milk,2%,qt,Glass,2,2/9/2016,NoCodeDate,2/9/2016,2/10/2016
+4494,V,452,Core,42,Pasteurized White Milk,2%,qt,Glass,2,5/15/2017,NoCodeDate,5/17/2017,5/18/2017
+3864,V,434,Core,43,Pasteurized White Milk,Skim,qt,Glass,2,8/4/2015,NoCodeDate,8/4/2015,8/5/2015
+3865,V,434,Extras,45,Pasteurized Chocolate Milk,Chocolate,qt,Glass,1,8/4/2015,NoCodeDate,8/4/2015,8/5/2015
+4011,W,440,Core,41,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,3/14/2016,4/1/2016,3/15/2016,3/16/2016
+3886,W,435,Core,44,Pasteurized White Milk,1%,Half gal,Plastic,1,9/15/2015,10/3/2015,9/15/2015,9/16/2015
+4210,W,446,Core,12,Pasteurized White Milk,2%,Half gal,Plastic,1,9/26/2016,10/14/2016,9/28/2016,9/28/2016
+4012,W,440,Core,42,Pasteurized White Milk,2%,Half gal,Plastic,1,3/14/2016,4/1/2016,3/15/2016,3/16/2016
+4550,W,454,Core,34,Pasteurized White Milk,1%,Half gal,Plastic,1,8/7/2017,8/26/2017,8/9/2017,8/10/2017
+3885,W,435,Core,43,Pasteurized White Milk,Skim,Half gal,Plastic,1,9/15/2015,10/3/2015,9/15/2015,9/16/2015
+3884,W,435,Core,42,Pasteurized White Milk,2%,Half gal,Plastic,1,9/15/2015,10/3/2015,9/15/2015,9/16/2015
+4330,W,449,Core,12,Pasteurized White Milk,2%,Half gal,Plastic,1,2/6/2017,2/24/2017,2/8/2017,2/9/2017
+4013,W,440,Core,43,Pasteurized White Milk,Skim,Half gal,Plastic,1,3/14/2016,4/1/2016,3/15/2016,3/16/2016
+4213,W,446,Extras,1-Dec,Pasteurized White Milk,2%,qt,Plastic,1,9/26/2016,10/14/2016,9/28/2016,9/28/2016
+4333,W,449,Extras,1-Dec,Pasteurized White Milk,2%,Gal,Plastic,1,2/6/2017,2/24/2017,2/8/2017,2/9/2017
+4549,W,454,Core,33,Pasteurized White Milk,Skim,Half gal,Plastic,1,8/7/2017,8/26/2017,8/9/2017,8/10/2017
+4209,W,446,Core,11,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,9/26/2016,10/14/2016,9/28/2016,9/28/2016
+4554,W,454,Extras,33-2,Pasteurized White Milk,Skim,Gal,Plastic,1,8/7/2017,8/26/2017,8/9/2017,8/11/2017
+4553,W,454,Extras,33-1,Pasteurized White Milk,Skim,qt,Plastic,1,8/7/2017,8/26/2017,8/9/2017,8/10/2017
+4211,W,446,Core,13,Pasteurized White Milk,Skim,Half gal,Plastic,1,9/26/2016,10/14/2016,9/28/2016,9/28/2016
+3883,W,435,Core,41,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,9/15/2015,10/3/2015,9/15/2015,9/16/2015
+4014,W,440,Core,44,Pasteurized White Milk,1%,Half gal,Plastic,1,3/14/2016,4/1/2016,3/15/2016,3/16/2016
+4215,W,446,Extras,13-2,Pasteurized White Milk,Skim,Half gal,Plastic,1,9/26/2016,10/14/2016,9/28/2016,9/28/2016
+4329,W,449,Core,11,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,2/6/2017,2/24/2017,2/8/2017,2/9/2017
+4547,W,454,Core,31,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,8/7/2017,8/26/2017,8/9/2017,8/10/2017
+4552,W,454,Extras,32-2,Pasteurized White Milk,2%,Gal,Plastic,1,8/7/2017,8/26/2017,8/9/2017,8/10/2017
+4331,W,449,Core,13,Pasteurized White Milk,Skim,Half gal,Plastic,1,2/6/2017,2/24/2017,2/8/2017,2/9/2017
+4212,W,446,Core,14,Pasteurized White Milk,1%,Half gal,Plastic,1,9/26/2016,10/14/2016,9/28/2016,9/28/2016
+4214,W,446,Extras,13-1,Pasteurized White Milk,Skim,Gal,Plastic,1,9/26/2016,10/14/2016,9/28/2016,9/28/2016
+4337,W,449,Extras,13-3,Pasteurized White Milk,Skim,qt,Plastic,1,2/6/2017,2/24/2017,2/8/2017,2/9/2017
+4335,W,449,Extras,13-1,Pasteurized White Milk,Skim,Gal,Plastic,1,2/6/2017,2/24/2017,2/8/2017,2/9/2017
+4334,W,449,Extras,2-Dec,Pasteurized White Milk,2%,qt,Plastic,1,2/6/2017,2/24/2017,2/8/2017,2/9/2017
+4332,W,449,Core,14,Pasteurized White Milk,1%,Half gal,Plastic,1,2/6/2017,2/24/2017,2/8/2017,2/9/2017
+4551,W,454,Extras,32-1,Pasteurized White Milk,2%,qt,Plastic,1,8/7/2017,8/26/2017,8/9/2017,8/10/2017
+4548,W,454,Core,32,Pasteurized White Milk,2%,Half gal,Plastic,1,8/7/2017,8/26/2017,8/9/2017,8/10/2017
+4336,W,449,Extras,13-2,Pasteurized White Milk,Skim,Gal,Plastic,1,2/6/2017,2/24/2017,2/8/2017,2/9/2017
+3843,T,433,Core,43,Pasteurized White Milk,Skim,Half gal,Plastic,1,7/14/2015,8/1/2015,7/16/2015,7/16/2015
+4518,T,453,Core,33,Pasteurized White Milk,Skim,Half gal,Plastic,1,7/11/2017,7/29/2017,7/13/2017,7/13/2017
+4520,T,453,Extras,32-1,Pasteurized White Milk,2%,Gal,Plastic,1,7/11/2017,7/29/2017,7/13/2017,7/13/2017
+4189,T,445,Core,33,Pasteurized White Milk,Skim,Half gal,Plastic,1,8/30/2016,9/17/2016,8/31/2016,8/31/2016
+4318,T,448,Core,41,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,1/10/2017,1/28/2017,1/11/2017,1/12/2017
+4319,T,448,Core,42,Pasteurized White Milk,2%,Half gal,Plastic,1,1/10/2017,1/28/2017,1/11/2017,1/12/2017
+4322,T,448,Extras,42-1,Pasteurized White Milk,2%,Gal,Plastic,1,1/10/2017,1/28/2017,1/11/2017,1/12/2017
+3964,T,438,Core,41,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,1/12/2016,1/30/2016,1/14/2016,1/14/2016
+4521,T,453,Extras,33-1,Pasteurized White Milk,Skim,Gal,Plastic,1,7/11/2017,7/29/2017,7/13/2017,7/13/2017
+3842,T,433,Core,42,Pasteurized White Milk,2%,Half gal,Plastic,1,7/14/2015,8/1/2015,7/16/2015,7/16/2015
+4190,T,445,Core,34,Pasteurized White Milk,1%,Half gal,Plastic,1,8/30/2016,9/17/2016,8/31/2016,8/31/2016
+4519,T,453,Core,34,Pasteurized White Milk,1%,Half gal,Plastic,1,7/11/2017,7/29/2017,7/13/2017,7/13/2017
+3965,T,438,Core,42,Pasteurized White Milk,2%,Half gal,Plastic,1,1/12/2016,1/30/2016,1/14/2016,1/14/2016
+3844,T,433,Core,44,Pasteurized White Milk,1%,Half gal,Plastic,1,7/14/2015,8/1/2015,7/16/2015,7/16/2015
+3966,T,438,Core,43,Pasteurized White Milk,Skim,Half gal,Plastic,1,1/12/2016,1/30/2016,1/14/2016,1/14/2016
+3841,T,433,Core,41,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,7/14/2015,8/1/2015,7/16/2015,7/16/2015
+3967,T,438,Core,44,Pasteurized White Milk,1%,Half gal,Plastic,1,1/12/2016,1/30/2016,1/14/2016,1/14/2016
+4323,T,448,Extras,43-1,Pasteurized White Milk,Skim,Gal,Plastic,1,1/10/2017,1/28/2017,1/11/2017,1/12/2017
+4192,T,445,Extras,33-1,Pasteurized White Milk,Skim,Gal,Plastic,1,8/30/2016,9/17/2016,8/31/2016,8/31/2016
+4517,T,453,Core,32,Pasteurized White Milk,2%,Half gal,Plastic,1,7/11/2017,7/29/2017,7/13/2017,7/13/2017
+4320,T,448,Core,43,Pasteurized White Milk,Skim,Half gal,Plastic,1,1/10/2017,1/28/2017,1/11/2017,1/12/2017
+4187,T,445,Core,31,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,8/30/2016,9/17/2016,8/31/2016,8/31/2016
+4516,T,453,Core,31,Pasteurized White Milk,Homogenized,Half gal,Plastic,1,7/11/2017,7/29/2017,7/13/2017,7/13/2017
+4191,T,445,Extras,32-1,Pasteurized White Milk,2%,Gal,Plastic,1,8/30/2016,9/17/2016,8/31/2016,8/31/2016
+4188,T,445,Core,32,Pasteurized White Milk,2%,Half gal,Plastic,1,8/30/2016,9/17/2016,8/31/2016,8/31/2016
+4321,T,448,Core,44,Pasteurized White Milk,1%,Half gal,Plastic,1,1/10/2017,1/28/2017,1/11/2017,1/12/2017
